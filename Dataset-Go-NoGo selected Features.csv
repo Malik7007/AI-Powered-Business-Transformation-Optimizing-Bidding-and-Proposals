@@ -1,0 +1,447 @@
+Project Scope Complexity,Technical Feasibility,Financial Feasibility,Contract Terms,Relevant Experience,Internal Resources Available,Risk Level,Market Demand,Strategic Alignment,Long Term Impact,Initial Go NoGo Decision
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,High,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Low,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Unfeasible,Favorable,No,Yes,Medium,High,Medium,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Low,Medium,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Medium,Feasible,Unfeasible,Favorable,No,Yes,Medium,High,High,Medium,Go
+Medium,Challenging,Unfeasible,Favorable,No,Yes,Medium,High,Medium,High,Go
+High ,Feasible,Feasible,Neutral,No,Yes,Low,High,High,High,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Low,High,Go
+Medium,Challenging,Feasible,Neutral,No,Yes,Low,High,High,Medium,Go
+High ,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Low,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+High ,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+Medium,Feasible,Feasible,Neutral,No,No,Medium,High,Medium,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,Medium,High,Medium,Medium,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Medium,Go
+Medium,Feasible,Challenging,Favorable,No,Yes,Medium,High,Medium,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,No,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,Medium,Medium,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,Medium,Low,Go
+Low,Challenging,Challenging,Favorable,Yes,Yes,Low,High,Medium,Medium,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Low,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Low,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Low,High,Medium,High,Go
+Medium,Challenging,Challenging,Favorable,No,Yes,Medium,High,Medium,Medium,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Medium,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Medium,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Medium,Go
+Medium,Feasible,Feasible,Favorable,No,Yes,Medium,High,High,High,Go
+High ,Feasible,Feasible,Favorable,No,Yes,Medium,High,High,Low,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,High,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,High,Low,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Low,High,Low,Low,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,High,Low,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+High ,Feasible,Feasible,Favorable,No,Yes,Medium,High,High,Medium,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+High ,Feasible,Feasible,Favorable,No,Yes,Medium,High,Medium,High,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+High ,Feasible,Feasible,Favorable,No,Yes,Medium,High,Medium,High,Go
+High ,Feasible,Feasible,Favorable,No,Yes,Low,High,High,High,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Low,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Low,High,High,Medium,Go
+High ,Feasible,Feasible,Favorable,No,Yes,Medium,High,Medium,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Low,High,Medium,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Low,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Low,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Low,High,Go
+Medium,Challenging,Feasible,Neutral,No,Yes,Low,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,High,Medium,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,High,High,High,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,Low,High,High,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,High,Go
+Low,Challenging,Feasible,Neutral,Yes,No,Medium,High,Low,Low,Go
+Low,Challenging,Unfeasible,Favorable,No,Yes,Low,High,Medium,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Unfeasible,Favorable,No,Yes,Low,High,High,High,Go
+Low,Feasible,Unfeasible,Favorable,No,Yes,Low,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,Medium,High,High,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,Low,High,High,High,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,Medium,High,High,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,Low,High,High,High,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,Medium,High,High,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,No,Medium,High,Medium,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Low,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Low,High,High,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,Medium,Medium,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Medium,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,Medium,Medium,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,Medium,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,High,Medium,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,High,Medium,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,High,Medium,Medium,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Low,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Low,High,Medium,Low,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Low,High,Medium,High,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Medium,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Low,High,Medium,High,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Low,High,High,High,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Medium,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Low,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,Medium,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Low,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Medium,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Low,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Low,Low,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Low,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,High,High,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Low,Medium,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,High,High,Medium,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Low,High,High,High,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Low,High,Medium,High,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Low,High,High,Low,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Low,High,High,Medium,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Medium,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Medium,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,High,Medium,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Medium,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Low,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Medium,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Low,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Medium,Low,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,Low,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,High,Low,High,Go
+Low,Challenging,Feasible,Favorable,Yes,No,Low,Medium,Low,Medium,Go
+Low,Unfeasible,Feasible,Favorable,Yes,Yes,Medium,Low,High,Low,Go
+Low,Challenging,Challenging,Favorable,Yes,Yes,High,Low,High,Medium,Go
+High ,Unfeasible,Feasible,Unfavorable,No,No,Medium,Low,Low,Medium,NoGo
+High ,Unfeasible,Feasible,Unfavorable,No,Yes,Medium,Medium,Medium,Medium,NoGo
+Low,Challenging,Unfeasible,Unfavorable,No,Yes,High,High,Low,High,NoGo
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Medium,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Medium,NoGo
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,High,Go
+Low,Unfeasible,Feasible,Favorable,No,Yes,High,Medium,High,Medium,Go
+High ,Unfeasible,Feasible,Unfavorable,No,Yes,Medium,Low,Medium,Low,NoGo
+Medium,Unfeasible,Challenging,Favorable,Yes,Yes,Medium,Medium,High,Medium,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Low,Low,Medium,Low,Go
+Medium,Challenging,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Low,NoGo
+High ,Feasible,Feasible,Favorable,Yes,Yes,Low,Low,Low,Medium,Go
+Low,Unfeasible,Feasible,Favorable,Yes,Yes,Low,Medium,Low,High,Go
+Low,Unfeasible,Feasible,Favorable,No,Yes,Medium,High,High,Medium,Go
+High ,Unfeasible,Feasible,Neutral,Yes,Yes,Medium,Medium,Low,Medium,Go
+High ,Unfeasible,Feasible,Unfavorable,No,No,Medium,Medium,Medium,Low,NoGo
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,Low,Medium,High,Go
+Low,Feasible,Challenging,Neutral,Yes,Yes,Medium,Low,High,High,Go
+Low,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,High,High,NoGo
+High ,Challenging,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Low,Medium,Go
+High ,Unfeasible,Feasible,Neutral,Yes,Yes,Medium,Low,High,Low,Go
+Medium,Challenging,Feasible,Unfavorable,No,Yes,Medium,Low,Low,Low,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+Medium,Unfeasible,Feasible,Unfavorable,No,Yes,Medium,Medium,Medium,Medium,NoGo
+High ,Challenging,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Low,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+Medium,Challenging,Challenging,Neutral,No,Yes,Medium,High,Medium,High,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,High,Low,Medium,Low,Go
+High ,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Feasible,Unfavorable,No,Yes,Medium,Medium,Medium,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Low,Medium,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Low,NoGo
+High ,Unfeasible,Feasible,Unfavorable,Yes,No,Medium,Low,Medium,Low,NoGo
+High ,Challenging,Feasible,Unfavorable,No,Yes,Medium,Low,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,Medium,Low,NoGo
+High ,Unfeasible,Feasible,Unfavorable,Yes,No,Medium,Low,Medium,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Low,NoGo
+High ,Challenging,Unfeasible,Unfavorable,No,No,Medium,Low,Low,Medium,NoGo
+High ,Challenging,Unfeasible,Unfavorable,No,No,High,Low,Low,Medium,NoGo
+Medium,Unfeasible,Feasible,Neutral,Yes,Yes,Medium,Low,Low,Low,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,High,Low,High,Low,Go
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Low,NoGo
+High ,Feasible,Unfeasible,Unfavorable,No,Yes,Medium,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+High ,Feasible,Feasible,Neutral,Yes,Yes,Low,Low,Medium,Low,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Low,High,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,High,Medium,Medium,Low,Go
+Medium,Challenging,Challenging,Neutral,No,Yes,Medium,Low,High,Low,Go
+High ,Challenging,Unfeasible,Neutral,No,No,Medium,Medium,Low,High,NoGo
+High ,Unfeasible,Unfeasible,Neutral,No,No,High,Medium,Low,Medium,NoGo
+High ,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,High,High,Go
+High ,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,High,Low,Go
+High ,Unfeasible,Feasible,Neutral,Yes,Yes,Medium,Low,Medium,Low,Go
+High ,Unfeasible,Feasible,Neutral,Yes,Yes,Low,High,High,High,Go
+High ,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,High,High,Go
+High ,Unfeasible,Feasible,Neutral,No,No,Medium,Low,Medium,Low,NoGo
+Medium,Unfeasible,Feasible,Neutral,Yes,No,Medium,Medium,Medium,Medium,NoGo
+Medium,Unfeasible,Feasible,Neutral,Yes,Yes,Low,Medium,Low,Medium,Go
+High ,Challenging,Feasible,Neutral,No,No,Medium,Low,High,Medium,NoGo
+High ,Unfeasible,Feasible,Neutral,No,Yes,High,Medium,Low,Medium,NoGo
+High ,Unfeasible,Feasible,Neutral,No,No,High,Medium,Medium,Medium,NoGo
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,Medium,Low,Go
+Medium,Challenging,Feasible,Neutral,No,No,High,Medium,Low,Medium,NoGo
+High ,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+High ,Feasible,Feasible,Neutral,Yes,Yes,Medium,Medium,Low,Low,Go
+High ,Challenging,Feasible,Neutral,No,Yes,Medium,Medium,High,High,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,High,Medium,High,High,Go
+High ,Challenging,Feasible,Neutral,Yes,Yes,Low,Low,Low,Low,NoGo
+High ,Unfeasible,Feasible,Neutral,No,Yes,High,Low,Low,Medium,NoGo
+High ,Unfeasible,Feasible,Neutral,Yes,No,Medium,Medium,Medium,Low,NoGo
+High ,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,Low,High,Go
+Medium,Challenging,Feasible,Neutral,No,No,Medium,Low,Low,High,NoGo
+High ,Unfeasible,Feasible,Neutral,No,No,Medium,Medium,Low,Medium,NoGo
+High ,Feasible,Feasible,Neutral,No,Yes,High,Medium,High,High,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Medium,Go
+High ,Unfeasible,Feasible,Neutral,No,No,High,Low,High,High,NoGo
+Medium,Challenging,Feasible,Neutral,Yes,No,Medium,Low,Low,Medium,Go
+High ,Feasible,Feasible,Favorable,No,Yes,High,Low,High,Medium,Go
+Medium,Unfeasible,Feasible,Neutral,Yes,Yes,High,Medium,Medium,Low,NoGo
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,No,Medium,High,High,Medium,Go
+Low,Unfeasible,Feasible,Favorable,Yes,Yes,Low,Medium,High,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Medium,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Medium,High,Go
+Low,Unfeasible,Feasible,Favorable,No,Yes,Medium,Low,High,High,Go
+Low,Feasible,Feasible,Favorable,Yes,No,High,Low,High,Medium,NoGo
+Low,Feasible,Feasible,Favorable,Yes,Yes,Low,Low,Medium,Low,Go
+High ,Unfeasible,Unfeasible,Neutral,No,No,High,Low,Low,Low,NoGo
+High ,Unfeasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Low,Medium,Go
+Medium,Challenging,Challenging,Favorable,No,Yes,Medium,Low,Medium,Medium,Go
+High ,Challenging,Challenging,Favorable,No,Yes,High,High,High,Medium,Go
+High ,Unfeasible,Feasible,Neutral,No,Yes,Medium,Low,Low,Low,NoGo
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Low,Go
+Medium,Unfeasible,Unfeasible,Neutral,No,Yes,Medium,Low,Medium,High,NoGo
+High ,Challenging,Feasible,Neutral,No,Yes,Medium,Medium,High,Medium,NoGo
+High ,Unfeasible,Unfeasible,Neutral,No,No,High,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Neutral,No,Yes,High,Low,Medium,Medium,NoGo
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,Medium,Low,Low,Go
+High ,Unfeasible,Challenging,Favorable,Yes,Yes,Medium,Medium,Medium,Low,Go
+High ,Challenging,Feasible,Neutral,No,Yes,Medium,Low,Low,Medium,NoGo
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,Low,High,High,Go
+High ,Unfeasible,Unfeasible,Neutral,Yes,No,High,Low,Medium,Low,NoGo
+Medium,Feasible,Challenging,Favorable,No,Yes,Low,Medium,High,High,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,Medium,Low,High,Go
+High ,Unfeasible,Unfeasible,Neutral,Yes,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Low,NoGo
+Medium,Unfeasible,Feasible,Unfavorable,Yes,Yes,Low,Medium,Low,High,Go
+Medium,Challenging,Challenging,Unfavorable,No,Yes,Medium,Low,Medium,High,Go
+High ,Feasible,Challenging,Unfavorable,No,Yes,High,Low,Medium,High,Go
+High ,Challenging,Challenging,Unfavorable,No,Yes,Medium,Medium,High,Low,Go
+High ,Challenging,Feasible,Unfavorable,Yes,Yes,Low,Medium,High,Medium,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Low,Low,Medium,Medium,Go
+High ,Challenging,Feasible,Favorable,Yes,Yes,Medium,Low,Low,Medium,Go
+High ,Feasible,Challenging,Favorable,No,Yes,Medium,High,High,Low,Go
+Medium,Challenging,Unfeasible,Unfavorable,No,No,High,Low,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,Yes,Medium,High,Low,Medium,NoGo
+High ,Feasible,Challenging,Favorable,No,Yes,High,Medium,Medium,High,Go
+Low,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Low,Low,Low,NoGo
+High ,Feasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,High,NoGo
+Low,Challenging,Unfeasible,Unfavorable,No,No,High,Medium,Low,Low,NoGo
+Low,Challenging,Feasible,Unfavorable,Yes,No,Medium,Low,Medium,Low,NoGo
+High ,Unfeasible,Challenging,Favorable,No,Yes,High,High,High,High,Go
+Low,Challenging,Challenging,Favorable,Yes,Yes,Low,High,High,High,Go
+Low,Challenging,Challenging,Favorable,Yes,Yes,Low,High,High,Low,Go
+Low,Unfeasible,Feasible,Unfavorable,No,Yes,Medium,Low,Low,Medium,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Low,NoGo
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Medium,Medium,Go
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Low,Challenging,Feasible,Favorable,Yes,Yes,Medium,Low,Low,Low,Go
+Low,Feasible,Challenging,Favorable,Yes,Yes,High,Medium,Medium,High,Go
+Low,Challenging,Challenging,Favorable,Yes,Yes,High,High,High,Low,Go
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,Medium,Low,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Low,NoGo
+High ,Challenging,Challenging,Favorable,No,Yes,High,Low,Medium,Low,Go
+High ,Unfeasible,Feasible,Unfavorable,No,No,Medium,Low,Medium,Medium,NoGo
+High ,Feasible,Unfeasible,Unfavorable,No,Yes,High,High,High,High,NoGo
+Medium,Feasible,Challenging,Favorable,No,Yes,High,High,High,High,Go
+High ,Feasible,Challenging,Favorable,Yes,Yes,Low,Low,High,High,Go
+High ,Unfeasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Medium,High,Go
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+High ,Unfeasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Low,High,Go
+Medium,Challenging,Feasible,Favorable,Yes,Yes,Medium,High,High,High,Go
+Medium,Unfeasible,Feasible,Favorable,No,Yes,Low,Medium,High,Low,Go
+High ,Unfeasible,Challenging,Favorable,Yes,Yes,Medium,Medium,High,Medium,Go
+Medium,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Low,Low,Low,NoGo
+High ,Unfeasible,Feasible,Unfavorable,Yes,No,Medium,Medium,Low,Medium,NoGo
+High ,Unfeasible,Challenging,Favorable,Yes,Yes,Medium,Medium,High,Medium,Go
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,Low,Medium,NoGo
+High ,Unfeasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Low,Medium,Go
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Low,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Low,Low,Low,NoGo
+High ,Unfeasible,Challenging,Favorable,Yes,Yes,Medium,Medium,High,Medium,Go
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,Low,Medium,NoGo
+High ,Unfeasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Low,Medium,Go
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Low,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Medium,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Low,Low,Low,NoGo
+Low,Unfeasible,Challenging,Favorable,Yes,Yes,Medium,Medium,High,Medium,Go
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Low,NoGo
+Low,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,Medium,Low,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Low,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Medium,Low,Medium,NoGo
+High ,Unfeasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Low,Medium,Go
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Challenging,Favorable,No,No,High,Low,Medium,Medium,Go
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,Yes,High,Low,Low,Low,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Medium,Low,Medium,NoGo
+High ,Unfeasible,Feasible,Unfavorable,Yes,No,Medium,Medium,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Feasible,Unfavorable,No,No,Medium,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+Medium,Unfeasible,Unfeasible,Unfavorable,No,No,High,Low,Medium,Medium,NoGo
+High ,Unfeasible,Unfeasible,Unfavorable,Yes,No,High,Low,Low,Medium,NoGo
+High ,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+High ,Feasible,Feasible,Favorable,No,Yes,Medium,High,Medium,High,Go
+Medium,Feasible,Feasible,Favorable,Yes,Yes,Low,Low,Low,Medium,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Medium,Low,Medium,High,Go
+High ,Feasible,Challenging,Favorable,Yes,Yes,Medium,Low,High,High,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Low,Go
+High ,Feasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Low,Low,Go
+Low,Feasible,Challenging,Favorable,Yes,Yes,High,Medium,High,High,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,Medium,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,High,High,Medium,Go
+Low,Feasible,Feasible,Favorable,Yes,Yes,Medium,Medium,Medium,High,Go
+Low,Feasible,Challenging,Favorable,Yes,Yes,Low,Medium,High,High,Go
+Low,Feasible,Feasible,Neutral,Yes,Yes,Low,Low,Medium,Medium,Go
+Low,Feasible,Challenging,Neutral,Yes,Yes,Medium,High,High,Low,Go
+Low,Feasible,Challenging,Neutral,Yes,Yes,High,Medium,Medium,High,Go
+Low,Feasible,Unfeasible,Unfavorable,No,No,High,Medium,Medium,Medium,NoGo
+Low,Feasible,Feasible,Neutral,Yes,Yes,Medium,Medium,Medium,Medium,Go
+Low,Feasible,Unfeasible,Unfavorable,No,Yes,High,High,High,High,NoGo
+Low,Feasible,Challenging,Neutral,Yes,Yes,High,High,High,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,Medium,Low,Medium,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,Low,Low,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,Low,Medium,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Low,Medium,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,High,Low,Medium,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Low,High,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,High,Medium,Medium,Low,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,Medium,Low,High,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,High,High,Go
+Low,Challenging,Unfeasible,Unfavorable,No,No,Medium,Low,Medium,Medium,NoGo
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,Medium,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,High,High,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,Low,High,Go
+Low,Challenging,Unfeasible,Unfavorable,No,No,High,Low,Low,High,NoGo
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,Low,Low,Medium,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,Medium,Low,Medium,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,Medium,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,Low,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,Low,High,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,Medium,Medium,High,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Low,Medium,High,Medium,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,Low,Low,Medium,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,Low,High,High,High,Go
+Low,Challenging,Challenging,Neutral,Yes,Yes,Low,High,High,Low,Go
+Low,Challenging,Challenging,Neutral,Yes,No,High,High,High,Low,Go
+Low,Challenging,Feasible,Neutral,Yes,Yes,Medium,High,High,High,Go
+Medium,Feasible,Challenging,Neutral,No,Yes,Medium,High,High,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,Low,Low,High,High,Go
+Medium,Feasible,Challenging,Neutral,No,Yes,Low,High,High,High,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Low,Medium,High,High,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Medium,Feasible,Feasible,Neutral,No,Yes,Medium,High,High,Medium,Go
+Medium,Feasible,Challenging,Neutral,No,Yes,Low,High,High,High,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Low,Medium,High,High,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Low,High,High,Medium,Go
+Medium,Feasible,Challenging,Neutral,No,Yes,Medium,High,High,Medium,Go
+High ,Unfeasible,Unfeasible,Unfavorable,No,No,High,High,Medium,Low,NoGo
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Low,Medium,High,High,Go
+Medium,Challenging,Feasible,Neutral,Yes,Yes,Medium,Medium,Medium,High,Go
+Medium,Feasible,Feasible,Neutral,Yes,Yes,Medium,Medium,Low,High,Go
+Medium,Feasible,Unfeasible,Neutral,Yes,No,High,Medium,Medium,Medium,NoGo

@@ -1,0 +1,447 @@
+Project Type,Project Scope Complexity,Project Location,Technical Feasibility,Financial Feasibility,Bid Bond or Guarantee,Contract Terms,Project Timeline Months,Project Budget,Relevant Experience,Internal Resources Available,Subcontractors Work,Partner or Joint Venture,Regulatory Issues,Risk Level,Outcome of Risks,Market Demand,Client Reliability,Strategic Alignment,Long Term Impact,Initial Go NoGo Decision
+Construction,Low,Riyadh,Challenging,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Low,Unmitigated,High,High,High,High,Go
+Construction,Low,Jeddah,Challenging,Feasible,Yes,Favorable,12 - 24 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,Low,Medium,Low,Go
+Infrastructure Development,Low,Riyadh,Feasible,Feasible,Yes,Favorable,6 - 12 Months,10 - 50 Million,Yes,Yes,No,Yes,Minor,Medium,Unmitigated,High,High,High,High,Go
+Construction,Low,Tabuk & Khamis Mushait,Feasible,Feasible,Yes,Favorable,12 - 24 Months,10 - 50 Million,Yes,Yes,No,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Rehabilitation & Repair,Low,Riyadh,Feasible,Feasible,Yes,Favorable,6 - 12 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,Medium,Go
+Construction,Low,Hail,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,Yes,Minor,Medium,Unmitigated,High,High,Medium,High,Go
+Construction,Low,Riyadh,Feasible,Feasible,Yes,Favorable,Above  48 Months,150 - 200 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,High,Go
+Construction,Low,Al Qassim,Feasible,Unfeasible,Yes,Favorable,36 - 48 Months,200 - 300 Million,No,Yes,No,No,Minor,Medium,Mitigated,High,High,Medium,High,Go
+Construction,Low,Riyadh,Challenging,Feasible,Yes,Favorable,36 - 48 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,Medium,High,Medium,Go
+Construction,Low,Riyadh,Challenging,Feasible,No,Neutral,36 - 48 Months,50 - 100 Million,Yes,Yes,No,No,Major,Medium,Mitigated,High,Medium,High,Medium,Go
+Construction,Medium,Riyadh,Challenging,Feasible,No,Neutral,6 - 12 Months,50 - 100 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,Low,Medium,Go
+Construction,Medium,Al Qassim,Challenging,Feasible,No,Neutral,36 - 48 Months,50 - 100 Million,Yes,Yes,No,No,None,Medium,Unmitigated,High,Medium,High,Medium,Go
+Construction,Medium,Al Qassim,Feasible,Unfeasible,Yes,Favorable,36 - 48 Months,50 - 100 Million,No,Yes,No,Yes,Minor,Medium,Unmitigated,High,Low,High,Medium,Go
+Construction,Medium,Al Qassim,Challenging,Unfeasible,Yes,Favorable,36 - 48 Months,100 - 150 Million,No,Yes,No,Yes,None,Medium,Mitigated,High,High,Medium,High,Go
+Construction,High ,Al Qassim,Feasible,Feasible,Yes,Neutral,36 - 48 Months,50 - 100 Million,No,Yes,No,Yes,None,Low,Unmitigated,High,High,High,High,Go
+Construction,Medium,Al Qassim,Challenging,Feasible,Yes,Neutral,36 - 48 Months,50 - 100 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Medium,Low,High,Go
+Infrastructure Development,Medium,Riyadh,Challenging,Feasible,Yes,Neutral,12 - 24 Months,10 - 50 Million,No,Yes,No,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Infrastructure Development,High ,Riyadh,Feasible,Feasible,Yes,Neutral,12 - 24 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,Medium,High,Low,Go
+Infrastructure Development,Medium,Riyadh,Feasible,Feasible,No,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Construction,High ,Riyadh,Challenging,Feasible,No,Neutral,Above  48 Months,10 - 50 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Low,High,High,Go
+Construction,Medium,Abha,Feasible,Feasible,Yes,Neutral,Above  48 Months,200 - 300 Million,No,No,Yes,Yes,Minor,Medium,Unmitigated,High,Medium,Medium,Medium,Go
+Construction,Medium,Al Madinah,Feasible,Feasible,No,Neutral,24 - 36 Months,50 - 100 Million,No,Yes,No,Yes,Minor,Medium,Unmitigated,High,High,Medium,Medium,Go
+Construction,Medium,Najran,Feasible,Feasible,No,Neutral,Above  48 Months,200 - 300 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Construction,Medium,Riyadh,Feasible,Challenging,No,Favorable,Above  48 Months,800 - 900 Million,No,Yes,No,Yes,Minor,Medium,Unmitigated,High,High,Medium,High,Go
+Infrastructure Development,Low,Riyadh,Feasible,Feasible,No,Favorable,12 - 24 Months,10 - 50 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Construction,Low,Riyadh,Feasible,Feasible,No,Favorable,Above  48 Months,50 - 100 Million,Yes,No,No,No,Minor,Medium,Mitigated,High,High,High,Medium,Go
+Infrastructure Development,Low,Riyadh,Feasible,Feasible,No,Favorable,Above  48 Months,300 - 400 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,Medium,Medium,High,Go
+Construction,Low,Jeddah,Challenging,Feasible,No,Favorable,Above  48 Months,200 - 300 Million,Yes,Yes,No,No,Major,Low,Unmitigated,High,Low,Medium,Medium,Go
+Construction,Low,Abha,Challenging,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Major,Low,Unmitigated,High,Medium,Medium,Low,Go
+Construction,Low,Al Qassim,Challenging,Challenging,No,Favorable,Above  48 Months,150 - 200 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,Medium,Medium,Go
+Infrastructure Development,Medium,Riyadh,Challenging,Feasible,No,Favorable,Above  48 Months,150 - 200 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,Medium,Medium,Low,Go
+Construction,Medium,Jeddah,Challenging,Feasible,No,Favorable,Above  48 Months,200 - 300 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,Medium,Low,Go
+Construction,Low,Riyadh,Feasible,Feasible,No,Favorable,36 - 48 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Low,Unmitigated,High,High,Medium,High,Go
+Construction,Medium,Riyadh,Challenging,Challenging,No,Favorable,36 - 48 Months,50 - 100 Million,No,Yes,No,No,None,Medium,Unmitigated,High,Medium,Medium,Medium,Go
+Maintenance,Medium,Riyadh,Challenging,Feasible,No,Favorable,24 - 36 Months,100 - 150 Million,Yes,Yes,No,No,None,Medium,Unmitigated,High,Medium,Medium,High,Go
+Maintenance,Medium,Eastern Province,Feasible,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,High,High,High,Go
+Maintenance,Medium,Eastern Province,Feasible,Feasible,No,Favorable,24 - 36 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,Medium,Medium,Medium,Go
+Maintenance,Medium,Eastern Province,Feasible,Feasible,No,Favorable,24 - 36 Months,150 - 200 Million,No,Yes,No,No,Major,Medium,Unmitigated,High,High,High,High,Go
+Maintenance,High ,Eastern Province,Feasible,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,No,Yes,No,Yes,Minor,Medium,Mitigated,High,High,High,Low,Go
+Maintenance,High ,Makkah,Feasible,Feasible,No,Favorable,24 - 36 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Unmitigated,High,High,Medium,High,Go
+Maintenance,Low,Makkah,Challenging,Feasible,Yes,Favorable,24 - 36 Months,200 - 300 Million,Yes,Yes,No,Yes,None,Low,Mitigated,High,Medium,High,High,Go
+Maintenance,Low,Al Madinah,Challenging,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,Yes,Major,Low,Mitigated,High,Low,High,Low,Go
+Maintenance,Low,Al Madinah,Challenging,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,Yes,None,Medium,Mitigated,High,High,Medium,High,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,High,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Low,Unmitigated,High,Low,Low,Low,Go
+Maintenance,Low,Hail,Challenging,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,Yes,Yes,Minor,Medium,Unmitigated,High,High,High,Low,Go
+Maintenance,Low,Aseer,Challenging,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,Yes,None,Medium,Unmitigated,High,High,Medium,High,Go
+Maintenance,Medium,Aseer,Challenging,Feasible,No,Favorable,24 - 36 Months,100 - 150 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Low,High,High,Go
+Maintenance,Low,Aseer,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,Yes,Minor,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,High ,Aseer,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,No,Yes,Yes,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,High ,Aseer,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,Medium,Go
+Maintenance,High ,Aseer,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,No,Yes,No,Yes,Minor,Medium,Unmitigated,High,High,Medium,High,Go
+Maintenance,High ,Northern Region,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,High,High,High,Go
+Maintenance,High ,Northern Region,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,No,Yes,No,No,Minor,Medium,Mitigated,High,High,Medium,High,Go
+Maintenance,High ,Riyadh,Feasible,Feasible,Yes,Favorable,24 - 36 Months,150 - 200 Million,No,Yes,No,Yes,None,Low,Unmitigated,High,High,High,High,Go
+Maintenance,High ,Riyadh,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,Medium,High,Low,Go
+Maintenance,High ,Eastern Province,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Maintenance,High ,Eastern Province,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,No,Yes,No,Yes,Minor,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Maintenance,Low,Eastern Province,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,Yes,Minor,Medium,Unmitigated,High,High,Medium,Medium,Go
+Maintenance,Low,Eastern Province,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Maintenance,Low,Makkah,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,Yes,Minor,Medium,Unmitigated,High,High,Medium,High,Go
+Maintenance,Low,Al Madinah,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Maintenance,Low,Al Madinah,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,Medium,Medium,High,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,Yes,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Low,Unmitigated,High,High,Medium,High,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,High,High,High,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Major,Medium,Unmitigated,High,High,High,High,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,Yes,Minor,Medium,Mitigated,High,High,High,Low,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Medium,Unmitigated,High,High,Medium,Medium,Go
+Maintenance,Low,Aseer,Feasible,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,Low,Aseer,Feasible,Feasible,Yes,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,Low,Aseer,Challenging,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,High,Low,Medium,Low,Go
+Maintenance,Low,Aseer,Challenging,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,Yes,No,Minor,Medium,Unmitigated,High,Medium,High,Medium,Go
+Maintenance,Low,Jazan,Challenging,Feasible,Yes,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,Yes,No,Major,Medium,Mitigated,High,Medium,High,Medium,Go
+Maintenance,Low,Jazan,Challenging,Feasible,Yes,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,Low,Medium,Go
+Construction,Low,Yanbu,Challenging,Feasible,Yes,Neutral,12 - 24 Months,50 - 100 Million,Yes,Yes,No,No,None,Medium,Unmitigated,High,Medium,High,Medium,Go
+Construction,Low,Al Baha,Challenging,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Medium,Low,High,Go
+Drainage and Stormwater Construction,Medium,Riyadh,Challenging,Feasible,Yes,Neutral,24 - 36 Months,50 - 100 Million,No,Yes,Yes,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Construction,Low,Aseer,Challenging,Feasible,Yes,Neutral,36 - 48 Months,50 - 100 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Low,High,High,Go
+Construction,Low,Aseer,Challenging,Feasible,Yes,Neutral,36 - 48 Months,50 - 100 Million,Yes,Yes,No,No,Major,Low,Unmitigated,High,Low,Medium,Medium,Go
+Construction,Low,Aseer,Challenging,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,Medium,Low,Go
+Drainage and Stormwater Construction,Low,Riyadh,Challenging,Feasible,Yes,Neutral,Above  48 Months,100 - 150 Million,Yes,Yes,No,No,None,Medium,Unmitigated,High,Medium,Medium,High,Go
+Construction,Low,Aseer,Challenging,Feasible,Yes,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,High,High,Go
+Construction,Low,Al Baha,Challenging,Challenging,Yes,Neutral,36 - 48 Months,50 - 100 Million,Yes,Yes,Yes,Yes,None,Low,Mitigated,High,Low,High,Low,Go
+Construction,Low,Al Madinah,Challenging,Feasible,Yes,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,Yes,None,Medium,Mitigated,High,High,Medium,High,Go
+Construction,Low,Al Madinah,Challenging,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,No,No,Yes,Minor,Medium,Unmitigated,High,High,Low,Low,Go
+Construction,Low,Al Baha,Challenging,Unfeasible,Yes,Favorable,36 - 48 Months,100 - 150 Million,No,Yes,No,Yes,None,Low,Unmitigated,High,High,Medium,High,Go
+Construction,Low,Al Madinah,Challenging,Feasible,Yes,Favorable,Above  48 Months,50 - 100 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Low,High,High,Go
+Construction,Low,Aseer,Feasible,Feasible,Yes,Neutral,12 - 24 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,High,High,Go
+Construction,Low,Al Baha,Feasible,Feasible,Yes,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Drainage and Stormwater Construction,Low,Aseer,Feasible,Feasible,Yes,Neutral,12 - 24 Months,150 - 200 Million,Yes,Yes,No,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Construction,Low,Al Madinah,Feasible,Unfeasible,Yes,Favorable,36 - 48 Months,100 - 150 Million,No,Yes,No,No,None,Low,Unmitigated,High,High,High,High,Go
+Construction,Low,Al Madinah,Feasible,Unfeasible,Yes,Favorable,36 - 48 Months,100 - 150 Million,No,Yes,No,No,None,Low,Unmitigated,High,High,High,High,Go
+Construction,Low,Al Madinah,Feasible,Feasible,Yes,Neutral,36 - 48 Months,100 - 150 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Rehabilitation & Repair,Low,Jeddah,Feasible,Feasible,Yes,Neutral,6 - 12 Months,200 - 300 Million,Yes,Yes,No,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Drainage and Stormwater Construction,Low,Al Madinah,Feasible,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,High,High,Go
+Maintenance,Low,Al Madinah,Feasible,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,Low,Al Qassim,Feasible,Feasible,No,Neutral,Above  48 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Maintenance,Medium,Aseer,Feasible,Feasible,No,Neutral,24 - 36 Months,10 - 50 Million,No,Yes,No,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,Medium,Jeddah,Feasible,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,No,Yes,No,No,None,Low,Unmitigated,High,High,High,High,Go
+Maintenance,Medium,Al Qassim,Feasible,Feasible,No,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Maintenance,Medium,Riyadh,Feasible,Feasible,No,Neutral,24 - 36 Months,10 - 50 Million,No,Yes,Yes,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,Medium,Riyadh,Feasible,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,No,Yes,Yes,No,None,Low,Unmitigated,High,High,High,High,Go
+Maintenance,Medium,Riyadh,Feasible,Feasible,No,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Maintenance,Medium,Aseer,Feasible,Feasible,No,Neutral,24 - 36 Months,10 - 50 Million,No,Yes,Yes,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Maintenance,Medium,Riyadh,Feasible,Feasible,No,Neutral,24 - 36 Months,10 - 50 Million,No,No,No,Yes,None,Medium,Unmitigated,High,Medium,Medium,Medium,Go
+Construction,Low,Al Qassim,Feasible,Feasible,Yes,Favorable,Above  48 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Maintenance,Low,Riyadh,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Medium,High,Low,Go
+Maintenance,Low,Riyadh,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Maintenance,Low,Riyadh,Feasible,Feasible,Yes,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Low,High,High,Go
+Infrastructure Development,Low,Riyadh,Challenging,Feasible,Yes,Favorable,12 - 24 Months,100 - 150 Million,Yes,Yes,Yes,No,None,Low,Mitigated,High,Medium,Medium,Medium,Go
+Rehabilitation & Repair,Low,Jeddah,Challenging,Feasible,Yes,Favorable,24 - 36 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,Medium,Medium,Go
+Maintenance,Low,Al Qassim,Challenging,Feasible,Yes,Favorable,36 - 48 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,Medium,Medium,Go
+Construction,Low,Al Qassim,Challenging,Feasible,No,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Low,Mitigated,High,High,Medium,High,Go
+Maintenance,Low,Riyadh,Challenging,Feasible,No,Favorable,36 - 48 Months,300 - 400 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,High,Medium,Go
+Maintenance,Low,Riyadh,Challenging,Feasible,No,Neutral,36 - 48 Months,50 - 100 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Construction,Low,Riyadh,Challenging,Feasible,No,Neutral,Above  48 Months,200 - 300 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,Medium,High,Go
+Maintenance,Low,Riyadh,Challenging,Feasible,No,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Low,Medium,Medium,Go
+Drainage and Stormwater Construction,Low,Riyadh,Challenging,Feasible,No,Neutral,Above  48 Months,400 - 500 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Medium,Medium,Low,Go
+Maintenance,Low,Riyadh,Challenging,Feasible,No,Neutral,12 - 24 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,Medium,Medium,Go
+Drainage and Stormwater Construction,Medium,Riyadh,Challenging,Feasible,No,Neutral,Above  48 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,Medium,Medium,Low,Go
+Rehabilitation & Repair,Medium,Riyadh,Challenging,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Low,Mitigated,High,High,Medium,Low,Go
+Construction,Medium,Riyadh,Challenging,Feasible,Yes,Neutral,36 - 48 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Low,Mitigated,High,High,Medium,High,Go
+Maintenance,Medium,Riyadh,Challenging,Feasible,Yes,Neutral,24 - 36 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Maintenance,Medium,Riyadh,Challenging,Feasible,Yes,Neutral,24 - 36 Months,500 - 600 Million,Yes,Yes,No,No,Minor,Low,Mitigated,High,Medium,Medium,High,Go
+Maintenance,Medium,Yanbu,Challenging,Feasible,Yes,Neutral,Above  48 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Low,Mitigated,High,High,High,High,Go
+Drainage and Stormwater Construction,Medium,Jeddah,Challenging,Feasible,Yes,Neutral,Less than 6  Months,10 - 50 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Drainage and Stormwater Construction,Medium,Riyadh,Feasible,Feasible,Yes,Neutral,24 - 36 Months,400 - 500 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,High,Go
+Drainage and Stormwater Construction,Low,Riyadh,Feasible,Feasible,Yes,Neutral,24 - 36 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,Low,Go
+Construction,Low,Riyadh,Feasible,Feasible,Yes,Neutral,24 - 36 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,Medium,High,Go
+Construction,Low,Riyadh,Feasible,Feasible,Yes,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,Medium,High,High,Go
+Construction,Low,Jeddah,Feasible,Feasible,Yes,Neutral,6 - 12 Months,50 - 100 Million,Yes,Yes,Yes,No,Minor,Low,Mitigated,High,Low,High,Low,Go
+Rehabilitation & Repair,Low,Riyadh,Feasible,Feasible,Yes,Neutral,6 - 12 Months,10 - 50 Million,Yes,Yes,Yes,No,Minor,Low,Mitigated,High,High,Medium,High,Go
+Infrastructure Development,Low,Al Madinah,Feasible,Feasible,Yes,Neutral,Less than 6  Months,10 - 50 Million,Yes,Yes,Yes,No,Minor,Medium,Mitigated,High,High,High,High,Go
+Rehabilitation & Repair,Low,Riyadh,Feasible,Feasible,Yes,Neutral,12 - 24 Months,10 - 50 Million,Yes,Yes,Yes,No,Minor,Low,Mitigated,High,High,Low,Medium,Go
+Rehabilitation & Repair,Low,Eastern Province,Feasible,Feasible,Yes,Neutral,12 - 24 Months,10 - 50 Million,Yes,Yes,Yes,No,Minor,Low,Mitigated,High,Low,Low,Low,Go
+Infrastructure Development,Low,Al Madinah,Feasible,Feasible,Yes,Neutral,12 - 24 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Low,Mitigated,High,High,Low,Low,Go
+Infrastructure Development,Low,Jeddah,Challenging,Feasible,Yes,Neutral,Above  48 Months,300 - 400 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,Medium,High,Go
+Infrastructure Development,Low,Tabuk & Khamis Mushait,Challenging,Feasible,Yes,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Low,Mitigated,High,Low,High,High,Go
+Infrastructure Development,Low,Riyadh,Challenging,Feasible,No,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Low,Mitigated,High,High,High,Medium,Go
+Infrastructure Development,Low,Eastern Province,Challenging,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,Low,Medium,Go
+Infrastructure Development,Low,Jeddah,Challenging,Feasible,No,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,Minor,Low,Mitigated,High,High,High,Medium,Go
+Construction,Low,Arar ,Challenging,Feasible,No,Favorable,24 - 36 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,Medium,High,Go
+Rehabilitation & Repair,Medium,Riyadh,Challenging,Feasible,No,Favorable,Less than 6  Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,High,High,Go
+Construction,Medium,Al Madinah,Challenging,Feasible,No,Favorable,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,Medium,High,Go
+Rehabilitation & Repair,Medium,Jeddah,Challenging,Feasible,No,Favorable,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,High,High,Go
+Construction,Medium,Al Madinah,Challenging,Feasible,No,Favorable,36 - 48 Months,100 - 150 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,High,Low,Go
+Construction,Medium,Eastern Province,Challenging,Feasible,No,Favorable,24 - 36 Months,100 - 150 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,High,Medium,Go
+Infrastructure Development,Medium,Eastern Province,Challenging,Feasible,No,Favorable,12 - 24 Months,50 - 100 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Construction,Medium,Al Madinah,Challenging,Feasible,No,Neutral,12 - 24 Months,10 - 50 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,Medium,Medium,Go
+Construction,Medium,Riyadh,Challenging,Feasible,No,Neutral,Less than 6  Months,10 - 50 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Construction,Low,Riyadh,Challenging,Feasible,No,Neutral,12 - 24 Months,100 - 150 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,Medium,High,Go
+Construction,Low,Riyadh,Challenging,Feasible,No,Neutral,Less than 6  Months,10 - 50 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Construction,Low,Eastern Province,Challenging,Feasible,No,Neutral,12 - 24 Months,100 - 150 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,Medium,High,Go
+Maintenance,Low,Yanbu,Feasible,Feasible,No,Neutral,6 - 12 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,Medium,High,Go
+Construction,Low,Riyadh,Feasible,Feasible,Yes,Neutral,24 - 36 Months,600 - 700 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,High,High,Go
+Construction,Low,Al Madinah,Feasible,Feasible,No,Neutral,6 - 12 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,High,High,Go
+Construction,Low,Al Qassim,Feasible,Feasible,No,Neutral,12 - 24 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,High,Low,Go
+Rehabilitation & Repair,Low,Jeddah,Feasible,Feasible,No,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,Medium,Medium,Go
+Construction,Low,Al Madinah,Feasible,Feasible,No,Neutral,24 - 36 Months,10 - 50 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Construction,Low,Hail,Feasible,Feasible,No,Neutral,24 - 36 Months,50 - 100 Million,Yes,Yes,No,No,None,Low,Mitigated,High,High,Low,Medium,Go
+Construction,Low,Hail,Feasible,Feasible,No,Neutral,6 - 12 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Low,Medium,Low,Go
+Construction,Low,Al Madinah,Feasible,Feasible,No,Neutral,Above  48 Months,10 - 50 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Medium,High,Medium,Go
+Construction,Low,Al Baha,Feasible,Feasible,No,Neutral,12 - 24 Months,10 - 50 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,High,Medium,Go
+Construction,Low,Majma,Feasible,Feasible,Yes,Neutral,12 - 24 Months,600 - 700 Million,Yes,Yes,Yes,Yes,None,Medium,Mitigated,High,High,Low,Medium,Go
+Construction,Low,Riyadh,Feasible,Feasible,Yes,Neutral,36 - 48 Months,500 - 600 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,High,Medium,Go
+Construction,Low,Eastern Province,Feasible,Feasible,Yes,Neutral,24 - 36 Months,500 - 600 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,Low,High,Go
+Infrastructure Development,Low,Riyadh,Challenging,Feasible,Yes,Favorable,24 - 36 Months,400 - 500 Million,Yes,No,No,No,None,Low,Mitigated,Medium,Low,Low,Medium,Go
+Construction,Low,Tabuk,Unfeasible,Feasible,Yes,Favorable,6 - 12 Months,150 - 200 Million,Yes,Yes,Yes,No,Minor,Medium,Mitigated,Low,Medium,High,Low,Go
+Construction,Low,Medina,Challenging,Challenging,Yes,Favorable,24 - 36 Months,900 - 1000 Million,Yes,Yes,No,Yes,Minor,High,Mitigated,Low,Low,High,Medium,Go
+Infrastructure Development,High ,Tabuk,Unfeasible,Feasible,Yes,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,Yes,Yes,Major,Medium,Unmitigated,Low,Medium,Low,Medium,NoGo
+Infrastructure Development,High ,Riyadh,Unfeasible,Feasible,Yes,Unfavorable,24 - 36 Months,900 - 1000 Million,No,Yes,No,Yes,Minor,Medium,Unmitigated,Medium,Medium,Medium,Medium,NoGo
+Buildings Construction,Low,Tabuk,Challenging,Unfeasible,Yes,Unfavorable,36 - 48 Months,Above 2 Billion,No,Yes,No,Yes,Major,High,Unmitigated,High,Medium,Low,High,NoGo
+Construction,Low,Riyadh,Feasible,Feasible,Yes,Favorable,24 - 36 Months,150 - 200 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,Medium,Go
+Buildings Construction,Medium,Riyadh,Unfeasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,Yes,Yes,Major,High,Mitigated,Medium,Low,Medium,Medium,NoGo
+Piling and Deep Foundation,High ,Medina,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,100 - 150 Million,Yes,No,Yes,No,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Construction,Low,Qassim,Feasible,Feasible,Yes,Favorable,6 - 12 Months,10 - 50 Millions,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,High,Go
+Construction,Low,Medina,Feasible,Feasible,Yes,Favorable,12 - 24 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,Medium,High,Go
+Drainage and Stormwater Construction,Low,Mecca,Unfeasible,Feasible,Yes,Favorable,6 - 12 Months,50 - 100 Million,No,Yes,No,No,None,High,Mitigated,Medium,High,High,Medium,Go
+Infrastructure Development,High ,Jeddah,Unfeasible,Feasible,Yes,Unfavorable,12 - 24 Months,700 - 800 Million,No,Yes,Yes,No,Major,Medium,Unmitigated,Low,Medium,Medium,Low,NoGo
+Infrastructure Development,Medium,Dammam,Unfeasible,Challenging,Yes,Favorable,12 - 24 Months,600 - 700 Million,Yes,Yes,Yes,No,Major,Medium,Mitigated,Medium,Medium,High,Medium,Go
+Infrastructure Development,Low,Riyadh,Challenging,Feasible,Yes,Favorable,24 - 36 Months,300 - 400 Million,Yes,Yes,No,No,Minor,Low,Mitigated,Low,High,Medium,Low,Go
+Piling and Deep Foundation,Medium,Dammam,Challenging,Unfeasible,Yes,Unfavorable,Less than 6  Months,50 - 100 Million,Yes,No,Yes,No,Major,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Construction,High ,Riyadh,Feasible,Feasible,Yes,Favorable,Less than 6  Months,10 - 50 Millions,Yes,Yes,No,No,Minor,Low,Mitigated,Low,Medium,Low,Medium,Go
+Infrastructure Development,Low,Medina,Unfeasible,Feasible,Yes,Favorable,12 - 24 Months,150 - 200 Million,Yes,Yes,No,No,Major,Low,Mitigated,Medium,High,Low,High,Go
+Construction,Low,Mecca,Unfeasible,Feasible,Yes,Favorable,6 - 12 Months,50 - 100 Million,No,Yes,No,No,Minor,Medium,Mitigated,High,Medium,High,Medium,Go
+Construction,High ,Riyadh,Unfeasible,Feasible,Yes,Neutral,24 - 36 Months,100 - 150 Million,Yes,Yes,Yes,No,Major,Medium,Mitigated,Medium,Medium,Low,Medium,Go
+Infrastructure Development,High ,Tabuk,Unfeasible,Feasible,Yes,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,No,Yes,Major,Medium,Unmitigated,Medium,Medium,Medium,Low,NoGo
+Construction,Low,Dammam,Challenging,Feasible,No,Neutral,24 - 36 Months,150 - 200 Million,Yes,Yes,No,No,Major,Medium,Mitigated,High,Medium,High,Medium,Go
+Infrastructure Development,Low,Medina,Feasible,Feasible,No,Neutral,6 - 12 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Mitigated,Low,High,Medium,High,Go
+Construction,Low,Dammam,Feasible,Challenging,Yes,Neutral,24 - 36 Months,500 - 600 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Low,High,High,High,Go
+Construction,Low,Abha,Unfeasible,Unfeasible,No,Unfavorable,36 - 48 Months,Above 2 Billion,No,Yes,No,Yes,None,High,Mitigated,Medium,Medium,High,High,NoGo
+Buildings Construction,High ,Riyadh,Challenging,Unfeasible,No,Unfavorable,24 - 36 Months,100 - 150 Million,Yes,No,Yes,No,Major,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Buildings Construction,High ,Medina,Unfeasible,Unfeasible,No,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,Yes,Yes,Major,High,Mitigated,Medium,Low,Medium,Medium,NoGo
+Buildings Construction,Medium,Riyadh,Challenging,Feasible,No,Neutral,12 - 24 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,Low,Medium,Go
+Construction,High ,Tabuk,Unfeasible,Feasible,No,Neutral,Less than 6  Months,10 - 50 Millions,Yes,Yes,No,No,Minor,Medium,Mitigated,Low,Medium,High,Low,Go
+Infrastructure Development,Medium,Tabuk,Challenging,Feasible,Yes,Unfavorable,36 - 48 Months,700 - 800 Million,No,Yes,Yes,Yes,Minor,Medium,Mitigated,Low,Medium,Low,Low,NoGo
+Infrastructure Development,Medium,Dammam,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,400 - 500 Million,Yes,No,Yes,No,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Construction,High ,Dammam,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Mitigated,Medium,Low,Medium,Medium,NoGo
+Construction,High ,Dammam,Unfeasible,Unfeasible,No,Unfavorable,Less than 6  Months,Less than 10 Million,No,No,Yes,No,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Construction,Medium,Riyadh,Unfeasible,Feasible,No,Unfavorable,36 - 48 Months,Above 2 Billion,No,Yes,No,Yes,Major,Medium,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Buildings Construction,High ,Riyadh,Challenging,Unfeasible,Yes,Unfavorable,24 - 36 Months,600 - 700 Million,No,No,No,Yes,Minor,High,Mitigated,Medium,Low,Medium,Low,NoGo
+Construction,Medium,Khobar,Unfeasible,Unfeasible,No,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Buildings Construction,High ,Riyadh,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,Yes,Yes,Major,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Construction,High ,Medina,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,150 - 200 Million,Yes,No,Yes,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Construction,Medium,Tabuk,Challenging,Challenging,Yes,Neutral,24 - 36 Months,Above 2 Billion,No,Yes,No,Yes,None,Medium,Mitigated,High,Low,Medium,High,Go
+Construction,Low,Dammam,Challenging,Challenging,Yes,Neutral,12 - 24 Months,Above 2 Billion,Yes,Yes,No,Yes,Minor,High,Mitigated,Low,High,Medium,Low,Go
+Infrastructure Development,High ,Medina,Unfeasible,Unfeasible,Yes,Unfavorable,12 - 24 Months,Less than 10 Million,No,Yes,No,No,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Infrastructure Development,High ,Medina,Unfeasible,Feasible,Yes,Unfavorable,36 - 48 Months,700 - 800 Million,No,Yes,No,No,Minor,Medium,Unmitigated,Medium,Medium,Medium,Medium,NoGo
+Construction,Medium,Riyadh,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,700 - 800 Million,No,Yes,No,No,Major,High,Mitigated,Low,Low,Medium,Medium,NoGo
+Construction,Medium,Tabuk,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,900 - 1000 Million,No,No,No,Yes,Major,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Piling and Deep Foundation,High ,Medina,Unfeasible,Feasible,Yes,Unfavorable,Less than 6  Months,100 - 150 Million,Yes,No,No,No,Major,Medium,Mitigated,Low,Medium,Medium,Low,NoGo
+Construction,High ,Yanbu,Challenging,Feasible,Yes,Unfavorable,36 - 48 Months,50 - 100 Million,No,Yes,Yes,Yes,Major,Medium,Unmitigated,Low,Medium,Medium,Low,NoGo
+Drainage and Stormwater Construction,High ,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,700 - 800 Million,No,Yes,No,No,Minor,High,Mitigated,Medium,Low,Medium,Low,NoGo
+Drainage and Stormwater Construction,High ,Riyadh,Unfeasible,Feasible,Yes,Unfavorable,12 - 24 Months,100 - 150 Million,Yes,No,No,No,Minor,Medium,Unmitigated,Low,Medium,Medium,Medium,NoGo
+Construction,Medium,Riyadh,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,Yes,Yes,Minor,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Buildings Construction,High ,Hofuf,Challenging,Unfeasible,Yes,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,Yes,Yes,Minor,Medium,Unmitigated,Low,Low,Low,Medium,NoGo
+Construction Materials,High ,Dammam,Challenging,Unfeasible,Yes,Unfavorable,36 - 48 Months,900 - 1000 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Construction,Medium,Riyadh,Unfeasible,Feasible,Yes,Neutral,6 - 12 Months,150 - 200 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Low,Medium,Low,Low,Go
+Construction Materials,Medium,Khobar,Challenging,Feasible,Yes,Neutral,6 - 12 Months,50 - 100 Million,Yes,Yes,No,No,Major,High,Mitigated,Low,Low,High,Low,Go
+Construction,High ,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,100 - 150 Million,Yes,No,No,No,Major,High,Mitigated,Low,Medium,Low,Low,NoGo
+Piling and Deep Foundation,High ,Tabuk,Feasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,100 - 150 Million,No,Yes,Yes,Yes,Major,Medium,Unmitigated,Low,Medium,Medium,Medium,NoGo
+Construction,High ,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,50 - 100 Million,No,No,No,Yes,Major,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Construction,High ,Khobar,Feasible,Feasible,Yes,Neutral,24 - 36 Months,100 - 150 Million,Yes,Yes,No,No,None,Low,Mitigated,Low,High,Medium,Low,Go
+Construction,Medium,Qassim,Challenging,Feasible,Yes,Neutral,6 - 12 Months,100 - 150 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Medium,Low,High,Go
+Construction,Low,Qassim,Challenging,Challenging,Yes,Neutral,24 - 36 Months,Above 2 Billion,Yes,Yes,No,Yes,Major,High,Mitigated,Medium,High,Medium,Low,Go
+Construction,Medium,Medina,Challenging,Challenging,Yes,Neutral,12 - 24 Months,Above 2 Billion,No,Yes,No,Yes,Major,Medium,Mitigated,Low,Low,High,Low,Go
+Construction,High ,Abha,Challenging,Unfeasible,Yes,Neutral,36 - 48 Months,Above 2 Billion,No,No,No,Yes,Major,Medium,Unmitigated,Medium,Medium,Low,High,NoGo
+Piling and Deep Foundation,High ,Yanbu,Unfeasible,Unfeasible,Yes,Neutral,Less than 6  Months,50 - 100 Million,No,No,No,Yes,Minor,High,Mitigated,Medium,Medium,Low,Medium,NoGo
+Piling and Deep Foundation,High ,Tabuk,Challenging,Feasible,No,Neutral,Less than 6  Months,50 - 100 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Medium,Low,High,High,Go
+Construction,High ,Dammam,Feasible,Feasible,Yes,Neutral,24 - 36 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,Medium,High,Low,Go
+Construction,High ,Medina,Unfeasible,Feasible,Yes,Neutral,Less than 6  Months,10 - 50 Millions,Yes,Yes,No,No,None,Medium,Mitigated,Low,Low,Medium,Low,Go
+Construction,High ,Al Jubail,Unfeasible,Feasible,No,Neutral,6 - 12 Months,150 - 200 Million,Yes,Yes,No,No,Major,Low,Mitigated,High,Medium,High,High,Go
+Buildings Construction,High ,Dammam,Challenging,Feasible,No,Neutral,12 - 24 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Mitigated,Medium,Medium,High,High,Go
+Drainage and Stormwater Construction,High ,Tabuk,Unfeasible,Feasible,No,Neutral,Less than 6  Months,Less than 10 Million,No,No,No,No,Minor,Medium,Unmitigated,Low,Medium,Medium,Low,NoGo
+Buildings Construction,Medium,Qassim,Unfeasible,Feasible,No,Neutral,12 - 24 Months,50 - 100 Million,Yes,No,No,No,Minor,Medium,Unmitigated,Medium,Medium,Medium,Medium,NoGo
+Construction,Medium,Riyadh,Unfeasible,Feasible,No,Neutral,6 - 12 Months,400 - 500 Million,Yes,Yes,No,No,Minor,Low,Mitigated,Medium,Low,Low,Medium,Go
+Construction,High ,Riyadh,Challenging,Feasible,Yes,Neutral,36 - 48 Months,Above 2 Billion,No,No,No,Yes,None,Medium,Unmitigated,Low,High,High,Medium,NoGo
+Drainage and Stormwater Construction,High ,Riyadh,Unfeasible,Feasible,Yes,Neutral,36 - 48 Months,900 - 1000 Million,No,Yes,Yes,Yes,Major,High,Mitigated,Medium,Medium,Low,Medium,NoGo
+Construction,High ,Riyadh,Unfeasible,Feasible,No,Neutral,24 - 36 Months,Above 2 Billion,No,No,Yes,Yes,Major,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Construction Materials,Medium,Medina,Challenging,Feasible,No,Neutral,12 - 24 Months,200 - 300 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Medium,Medium,Medium,Low,Go
+Construction Materials,Medium,Riyadh,Challenging,Feasible,Yes,Neutral,36 - 48 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Medium,Low,Low,Medium,NoGo
+Drainage and Stormwater Construction,High ,Dammam,Challenging,Feasible,No,Neutral,12 - 24 Months,10 - 50 Millions,Yes,Yes,No,No,None,Medium,Mitigated,High,Low,High,High,Go
+Construction,High ,Dammam,Feasible,Feasible,No,Neutral,6 - 12 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,Low,Low,Low,Go
+Construction,High ,Riyadh,Challenging,Feasible,No,Neutral,6 - 12 Months,Less than 10 Million,No,Yes,No,No,Minor,Medium,Mitigated,Medium,Medium,High,High,Go
+Piling and Deep Foundation,Medium,Tabuk,Feasible,Feasible,No,Neutral,Less than 6  Months,50 - 100 Million,No,Yes,No,Yes,None,High,Mitigated,Medium,High,High,High,Go
+Drainage and Stormwater Construction,High ,Yanbu,Challenging,Feasible,No,Neutral,12 - 24 Months,100 - 150 Million,Yes,Yes,No,No,None,Low,Mitigated,Low,Low,Low,Low,NoGo
+Construction,High ,Riyadh,Unfeasible,Feasible,No,Neutral,12 - 24 Months,Above 2 Billion,No,Yes,Yes,Yes,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Buildings Construction,High ,Dammam,Unfeasible,Feasible,No,Neutral,Less than 6  Months,50 - 100 Million,Yes,No,Yes,No,Major,Medium,Mitigated,Medium,Medium,Medium,Low,NoGo
+Drainage and Stormwater Construction,High ,Medina,Challenging,Feasible,No,Neutral,6 - 12 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Mitigated,Medium,Medium,Low,High,Go
+Design and Build,Medium,Riyadh,Challenging,Feasible,Yes,Neutral,12 - 24 Months,Above 2 Billion,No,No,No,Yes,Minor,Medium,Unmitigated,Low,High,Low,High,NoGo
+Design and Build,High ,Tabuk,Unfeasible,Feasible,No,Neutral,24 - 36 Months,Above 2 Billion,No,No,No,Yes,Major,Medium,Unmitigated,Medium,Medium,Low,Medium,NoGo
+Drainage and Stormwater Construction,High ,Riyadh,Feasible,Feasible,Yes,Neutral,24 - 36 Months,800 - 900 Million,No,Yes,No,Yes,Minor,High,Mitigated,Medium,Low,High,High,Go
+Drainage and Stormwater Construction,Medium,Riyadh,Feasible,Feasible,No,Neutral,12 - 24 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Design and Build,High ,Medina,Unfeasible,Feasible,No,Neutral,12 - 24 Months,Above 2 Billion,No,No,No,Yes,None,High,Unmitigated,Low,Medium,High,High,NoGo
+Construction,Medium,Medina,Challenging,Feasible,No,Neutral,24 - 36 Months,150 - 200 Million,Yes,No,No,No,Major,Medium,Mitigated,Low,High,Low,Medium,Go
+Construction,High ,Tabuk,Feasible,Feasible,No,Favorable,24 - 36 Months,700 - 800 Million,No,Yes,No,No,Minor,High,Mitigated,Low,Low,High,Medium,Go
+Drainage and Stormwater Construction,Medium,Jeddah,Unfeasible,Feasible,No,Neutral,6 - 12 Months,10 - 50 Millions,Yes,Yes,No,No,Major,High,Mitigated,Medium,Medium,Medium,Low,NoGo
+Construction,Low,Riyadh,Feasible,Feasible,No,Favorable,12 - 24 Months,100 - 150 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Construction,Low,Abha,Feasible,Feasible,No,Favorable,24 - 36 Months,100 - 150 Million,Yes,No,No,No,Minor,Medium,Mitigated,High,High,High,Medium,Go
+Construction Materials,Low,Medina,Unfeasible,Feasible,No,Favorable,24 - 36 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Low,Mitigated,Medium,High,High,High,Go
+Construction,Low,Jeddah,Feasible,Feasible,No,Favorable,12 - 24 Months,Above 2 Billion,Yes,Yes,No,Yes,Minor,Medium,Mitigated,Medium,Low,Medium,Medium,Go
+Construction Materials,Low,Riyadh,Feasible,Feasible,No,Favorable,12 - 24 Months,100 - 150 Million,Yes,Yes,No,No,None,Medium,Mitigated,Medium,Medium,Medium,High,Go
+Construction,Low,Al Kharj,Unfeasible,Feasible,No,Favorable,6 - 12 Months,50 - 100 Million,No,Yes,No,No,Major,Medium,Mitigated,Low,Medium,High,High,Go
+Drainage and Stormwater Construction,Low,Al Jubail,Feasible,Feasible,No,Favorable,12 - 24 Months,150 - 200 Million,Yes,No,No,No,Major,High,Mitigated,Low,Low,High,Medium,NoGo
+Construction,Low,Jeddah,Feasible,Feasible,No,Favorable,12 - 24 Months,100 - 150 Million,Yes,Yes,No,No,Major,Low,Mitigated,Low,Medium,Medium,Low,Go
+Drainage and Stormwater Construction,High ,Hofuf,Unfeasible,Unfeasible,No,Neutral,Less than 6  Months,Less than 10 Million,No,No,Yes,No,Major,High,Mitigated,Low,Low,Low,Low,NoGo
+Construction,High ,Riyadh,Unfeasible,Feasible,No,Favorable,12 - 24 Months,300 - 400 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Medium,Medium,Low,Medium,Go
+Construction,Medium,Medina,Challenging,Challenging,No,Favorable,24 - 36 Months,Above 2 Billion,No,Yes,No,Yes,Minor,Medium,Mitigated,Low,High,Medium,Medium,Go
+Construction,High ,Tabuk,Challenging,Challenging,No,Favorable,12 - 24 Months,Above 2 Billion,No,Yes,No,Yes,Minor,High,Mitigated,High,Low,High,Medium,Go
+Construction,High ,Medina,Unfeasible,Feasible,No,Neutral,24 - 36 Months,Above 2 Billion,No,Yes,Yes,Yes,Major,Medium,Unmitigated,Low,Medium,Low,Low,NoGo
+Construction,Medium,Riyadh,Challenging,Feasible,No,Favorable,12 - 24 Months,300 - 400 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,Medium,Low,Go
+Construction,Medium,Medina,Unfeasible,Unfeasible,No,Neutral,12 - 24 Months,Above 2 Billion,No,Yes,Yes,Yes,None,Medium,Unmitigated,Low,High,Medium,High,NoGo
+Drainage and Stormwater Construction,High ,Jeddah,Challenging,Feasible,No,Neutral,Less than 6  Months,Less than 10 Million,No,Yes,Yes,No,Major,Medium,Mitigated,Medium,Medium,High,Medium,NoGo
+Drainage and Stormwater Construction,High ,Medina,Unfeasible,Unfeasible,No,Neutral,24 - 36 Months,700 - 800 Million,No,No,Yes,No,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Drainage and Stormwater Construction,High ,Riyadh,Unfeasible,Unfeasible,No,Neutral,24 - 36 Months,700 - 800 Million,No,Yes,Yes,No,Minor,High,Mitigated,Low,Low,Medium,Medium,NoGo
+Construction,Medium,Medina,Challenging,Feasible,No,Favorable,24 - 36 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,Medium,Low,Low,Go
+Construction,High ,Abha,Unfeasible,Challenging,No,Favorable,24 - 36 Months,600 - 700 Million,Yes,Yes,Yes,No,Minor,Medium,Mitigated,Medium,Medium,Medium,Low,Go
+Construction,High ,Abha,Challenging,Feasible,No,Neutral,Less than 6  Months,Less than 10 Million,No,Yes,No,No,Major,Medium,Unmitigated,Low,Low,Low,Medium,NoGo
+Drainage and Stormwater Construction,Medium,Tabuk,Challenging,Feasible,No,Favorable,24 - 36 Months,10 - 50 Millions,Yes,Yes,No,No,Major,Medium,Mitigated,Low,Low,High,High,Go
+Infrastructure Development,High ,Dammam,Unfeasible,Unfeasible,No,Neutral,24 - 36 Months,400 - 500 Million,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Construction,Medium,Riyadh,Feasible,Challenging,No,Favorable,24 - 36 Months,700 - 800 Million,No,Yes,No,No,Minor,Low,Mitigated,Medium,High,High,High,Go
+Infrastructure Development,Medium,Dammam,Challenging,Feasible,No,Favorable,6 - 12 Months,150 - 200 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Medium,High,Low,High,Go
+Design and Build,High ,Medina,Unfeasible,Unfeasible,No,Neutral,12 - 24 Months,400 - 500 Million,Yes,No,No,No,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,High ,Medina,Unfeasible,Unfeasible,No,Unfavorable,36 - 48 Months,150 - 200 Million,Yes,No,No,No,Major,High,Mitigated,Low,Low,Low,Low,NoGo
+Drainage and Stormwater Construction,Medium,Riyadh,Unfeasible,Feasible,No,Unfavorable,Above  48 Months,400 - 500 Million,Yes,Yes,No,No,Minor,Low,Mitigated,Medium,Medium,Low,High,Go
+Construction,Medium,Abha,Challenging,Challenging,No,Unfavorable,12 - 24 Months,Above 2 Billion,No,Yes,No,Yes,None,Medium,Mitigated,Low,Low,Medium,High,Go
+Infrastructure Development,High ,Tabuk,Feasible,Challenging,No,Unfavorable,12 - 24 Months,Above 2 Billion,No,Yes,No,Yes,None,High,Mitigated,Low,High,Medium,High,Go
+Construction,High ,Dammam,Challenging,Challenging,No,Unfavorable,24 - 36 Months,Above 2 Billion,No,Yes,No,Yes,Minor,Medium,Mitigated,Medium,Medium,High,Low,Go
+Infrastructure Development,High ,Dammam,Challenging,Feasible,No,Unfavorable,6 - 12 Months,10 - 50 Millions,Yes,Yes,No,No,None,Low,Mitigated,Medium,High,High,Medium,Go
+Construction,High ,Qassim,Feasible,Feasible,No,Favorable,24 - 36 Months,300 - 400 Million,Yes,Yes,No,No,Major,Low,Mitigated,Low,Low,Medium,Medium,Go
+Infrastructure Development,High ,Riyadh,Challenging,Feasible,No,Favorable,6 - 12 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Low,Low,Low,Medium,Go
+Construction,High ,Dammam,Feasible,Challenging,No,Favorable,24 - 36 Months,Above 2 Billion,No,Yes,No,Yes,Minor,Medium,Mitigated,High,High,High,Low,Go
+Construction,Medium,Medina,Challenging,Unfeasible,No,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Infrastructure Development,High ,Qassim,Unfeasible,Unfeasible,No,Unfavorable,12 - 24 Months,Above 2 Billion,No,Yes,No,Yes,Minor,Medium,Unmitigated,High,Low,Low,Medium,NoGo
+Infrastructure Development,High ,Riyadh,Feasible,Challenging,No,Favorable,24 - 36 Months,Above 2 Billion,No,Yes,No,Yes,Major,High,Mitigated,Medium,Medium,Medium,High,Go
+Piling and Deep Foundation,Low,Tabuk,Unfeasible,Unfeasible,No,Unfavorable,Less than 6  Months,50 - 100 Million,No,Yes,Yes,Yes,Major,High,Mitigated,Low,Medium,Low,Low,NoGo
+Buildings Construction,High ,Dammam,Feasible,Unfeasible,No,Unfavorable,12 - 24 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Unmitigated,Medium,High,Medium,High,NoGo
+Construction,Low,Medina,Challenging,Unfeasible,No,Unfavorable,12 - 24 Months,Above 2 Billion,No,No,Yes,Yes,Major,High,Mitigated,Medium,Medium,Low,Low,NoGo
+Design and Build,Low,Al Jubail,Challenging,Feasible,No,Unfavorable,24 - 36 Months,Above 2 Billion,Yes,No,Yes,Yes,Minor,Medium,Unmitigated,Low,Low,Medium,Low,NoGo
+Infrastructure Development,High ,Tabuk,Unfeasible,Challenging,No,Favorable,12 - 24 Months,Above 2 Billion,No,Yes,No,Yes,Major,High,Mitigated,High,High,High,High,Go
+Infrastructure Development,Low,Dammam,Challenging,Challenging,Yes,Favorable,12 - 24 Months,800 - 900 Million,Yes,Yes,No,Yes,None,Low,Mitigated,High,Medium,High,High,Go
+Construction,Low,Dammam,Challenging,Challenging,Yes,Favorable,Above  48 Months,900 - 1000 Million,Yes,Yes,No,Yes,Minor,Low,Mitigated,High,Low,High,Low,Go
+Design and Build,Low,Riyadh,Unfeasible,Feasible,No,Unfavorable,12 - 24 Months,Above 2 Billion,No,Yes,Yes,Yes,Major,Medium,Unmitigated,Low,Low,Low,Medium,NoGo
+Construction,Low,Riyadh,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,Yes,Yes,Minor,High,Mitigated,Medium,Medium,Medium,Low,NoGo
+Construction,Low,Dammam,Feasible,Feasible,No,Favorable,12 - 24 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,High,Medium,Medium,Go
+Drainage and Stormwater Construction,Low,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Construction,Low,Dammam,Feasible,Feasible,No,Favorable,12 - 24 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,High,Go
+Construction,Low,Tabuk,Challenging,Feasible,No,Favorable,12 - 24 Months,150 - 200 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Low,Medium,Low,Low,Go
+Construction,Low,Hofuf,Feasible,Challenging,No,Favorable,24 - 36 Months,Above 2 Billion,Yes,Yes,Yes,Yes,Major,High,Mitigated,Medium,High,Medium,High,Go
+Infrastructure Development,Low,Dammam,Challenging,Challenging,Yes,Favorable,24 - 36 Months,900 - 1000 Million,Yes,Yes,No,Yes,None,High,Mitigated,High,Medium,High,Low,Go
+Infrastructure Development,Low,Riyadh,Unfeasible,Unfeasible,No,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,No,Yes,Minor,Medium,Unmitigated,Low,Low,Medium,Low,NoGo
+Infrastructure Development,High ,Abha,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,No,Yes,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Construction,Medium,Al Kharj,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Construction,High ,Hofuf,Challenging,Challenging,No,Favorable,24 - 36 Months,Above 2 Billion,No,Yes,No,Yes,Minor,High,Mitigated,Low,High,Medium,Low,Go
+Infrastructure Development,High ,Yanbu,Unfeasible,Feasible,No,Unfavorable,12 - 24 Months,Above 2 Billion,No,No,Yes,Yes,Major,Medium,Unmitigated,Low,Low,Medium,Medium,NoGo
+Construction,High ,Dammam,Feasible,Unfeasible,No,Unfavorable,36 - 48 Months,Above 2 Billion,No,Yes,No,Yes,Minor,High,Unmitigated,High,Medium,High,High,NoGo
+Drainage and Stormwater Construction,Medium,Riyadh,Feasible,Challenging,No,Favorable,24 - 36 Months,700 - 800 Million,No,Yes,No,Yes,Minor,High,Mitigated,High,Medium,High,High,Go
+Construction,High ,Tabuk,Feasible,Challenging,No,Favorable,12 - 24 Months,600 - 700 Million,Yes,Yes,Yes,Yes,None,Low,Mitigated,Low,High,High,High,Go
+Construction Materials,High ,Riyadh,Unfeasible,Feasible,No,Favorable,Less than 6  Months,10 - 50 Millions,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,Medium,Medium,High,Go
+Infrastructure Development,High ,Yanbu,Unfeasible,Unfeasible,No,Unfavorable,Less than 6  Months,10 - 50 Millions,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Infrastructure Development,High ,Medina,Unfeasible,Feasible,No,Favorable,24 - 36 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,Medium,Low,High,Go
+Construction,Medium,Riyadh,Challenging,Feasible,No,Favorable,24 - 36 Months,200 - 300 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Low,High,High,Go
+Infrastructure Development,Medium,Medina,Unfeasible,Feasible,No,Favorable,6 - 12 Months,50 - 100 Million,No,Yes,No,No,Minor,Low,Mitigated,Medium,High,High,Low,Go
+Drainage and Stormwater Construction,High ,Khobar,Unfeasible,Challenging,No,Favorable,24 - 36 Months,600 - 700 Million,Yes,Yes,Yes,Yes,Major,Medium,Mitigated,Medium,Medium,High,Medium,Go
+Drainage and Stormwater Construction,Medium,Tabuk,Unfeasible,Unfeasible,No,Unfavorable,12 - 24 Months,50 - 100 Million,No,Yes,Yes,No,Minor,High,Mitigated,Low,Medium,Low,Low,NoGo
+Construction,High ,Tabuk,Unfeasible,Feasible,Yes,Unfavorable,24 - 36 Months,50 - 100 Million,Yes,No,No,No,Minor,Medium,Unmitigated,Medium,Medium,Low,Medium,NoGo
+Infrastructure Development,High ,Dammam,Unfeasible,Challenging,No,Favorable,12 - 24 Months,600 - 700 Million,Yes,Yes,Yes,Yes,Major,Medium,Mitigated,Medium,Medium,High,Medium,Go
+Design and Build,High ,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,Less than 10 Million,No,No,Yes,No,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Construction,High ,Khobar,Unfeasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Construction,High ,Tabuk,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,900 - 1000 Million,No,No,No,Yes,Major,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Drainage and Stormwater Construction,High ,Dammam,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,700 - 800 Million,No,Yes,No,Yes,Minor,High,Mitigated,Medium,Low,Medium,Low,NoGo
+Construction,High ,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,100 - 150 Million,Yes,No,No,No,Major,High,Mitigated,Low,Medium,Low,Low,NoGo
+Drainage and Stormwater Construction,High ,Riyadh,Unfeasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,900 - 1000 Million,No,Yes,Yes,Yes,Major,High,Mitigated,Medium,Medium,Low,Medium,NoGo
+Construction,High ,Riyadh,Unfeasible,Feasible,Yes,Favorable,12 - 24 Months,300 - 400 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Medium,Medium,Low,Medium,Go
+Drainage and Stormwater Construction,High ,Medina,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,700 - 800 Million,No,No,Yes,Yes,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Infrastructure Development,High ,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,400 - 500 Million,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Construction,Medium,Medina,Unfeasible,Unfeasible,Yes,Unfavorable,12 - 24 Months,400 - 500 Million,Yes,No,No,No,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Drainage and Stormwater Construction,High ,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,High ,Abha,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,No,Yes,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,High ,Yanbu,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,10 - 50 Millions,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Drainage and Stormwater Construction,Medium,Tabuk,Unfeasible,Unfeasible,Yes,Unfavorable,12 - 24 Months,50 - 100 Million,No,Yes,Yes,No,Minor,High,Mitigated,Low,Medium,Low,Low,NoGo
+Infrastructure Development,High ,Dammam,Unfeasible,Challenging,No,Favorable,12 - 24 Months,600 - 700 Million,Yes,Yes,Yes,Yes,Major,Medium,Mitigated,Medium,Medium,High,Medium,Go
+Construction,High ,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,Less than 10 Million,No,No,Yes,No,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Construction,High ,Khobar,Unfeasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Design and Build,High ,Tabuk,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,900 - 1000 Million,No,No,No,Yes,Major,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Drainage and Stormwater Construction,High ,Dammam,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,700 - 800 Million,No,Yes,No,Yes,Minor,High,Mitigated,Medium,Low,Medium,Low,NoGo
+Construction,High ,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,100 - 150 Million,Yes,No,No,No,Major,High,Mitigated,Low,Medium,Low,Low,NoGo
+Drainage and Stormwater Construction,High ,Riyadh,Unfeasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,900 - 1000 Million,No,Yes,Yes,Yes,Major,High,Mitigated,Medium,Medium,Low,Medium,NoGo
+Construction,High ,Riyadh,Unfeasible,Feasible,Yes,Favorable,12 - 24 Months,300 - 400 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Medium,Medium,Low,Medium,Go
+Drainage and Stormwater Construction,Low,Medina,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,700 - 800 Million,No,No,Yes,Yes,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Infrastructure Development,Low,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,400 - 500 Million,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Construction,Low,Medina,Unfeasible,Unfeasible,Yes,Unfavorable,12 - 24 Months,400 - 500 Million,Yes,No,No,No,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Drainage and Stormwater Construction,Low,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,Low,Abha,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,No,Yes,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,Low,Yanbu,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,10 - 50 Millions,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Drainage and Stormwater Construction,Low,Tabuk,Unfeasible,Unfeasible,Yes,Unfavorable,12 - 24 Months,50 - 100 Million,No,Yes,Yes,No,Minor,High,Mitigated,Low,Medium,Low,Low,NoGo
+Infrastructure Development,Low,Dammam,Unfeasible,Challenging,Yes,Favorable,12 - 24 Months,600 - 700 Million,Yes,Yes,Yes,Yes,Major,Medium,Mitigated,Medium,Medium,High,Medium,Go
+Construction,Low,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,Less than 10 Million,No,No,Yes,No,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Design and Build,Low,Khobar,Unfeasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Construction,Low,Tabuk,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,900 - 1000 Million,No,No,No,Yes,Major,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Drainage and Stormwater Construction,Low,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,700 - 800 Million,No,Yes,No,Yes,Minor,High,Mitigated,Medium,Low,Medium,Low,NoGo
+Construction,Medium,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,100 - 150 Million,Yes,No,No,No,Major,High,Mitigated,Low,Medium,Low,Low,NoGo
+Drainage and Stormwater Construction,Medium,Riyadh,Unfeasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,900 - 1000 Million,No,Yes,Yes,Yes,Major,High,Mitigated,Medium,Medium,Low,Medium,NoGo
+Construction,High ,Riyadh,Unfeasible,Feasible,Yes,Favorable,12 - 24 Months,300 - 400 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Medium,Medium,Low,Medium,Go
+Drainage and Stormwater Construction,High ,Medina,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,700 - 800 Million,No,No,Yes,Yes,Minor,High,Mitigated,Medium,Medium,Medium,Medium,NoGo
+Infrastructure Development,Medium,Dammam,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,400 - 500 Million,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Medium,Low,NoGo
+Construction,High ,Medina,Unfeasible,Unfeasible,Yes,Unfavorable,12 - 24 Months,400 - 500 Million,Yes,No,No,No,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Drainage and Stormwater Construction,High ,Qassim,Unfeasible,Challenging,Yes,Favorable,24 - 36 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,Go
+Infrastructure Development,High ,Abha,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,No,Yes,Major,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,Medium,Yanbu,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,10 - 50 Millions,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Drainage and Stormwater Construction,High ,Tabuk,Unfeasible,Unfeasible,Yes,Unfavorable,12 - 24 Months,50 - 100 Million,No,Yes,Yes,No,Minor,High,Mitigated,Low,Medium,Low,Low,NoGo
+Piling and Deep Foundation,High ,Yanbu,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,50 - 100 Million,No,No,No,Yes,Minor,High,Mitigated,Medium,Medium,Low,Medium,NoGo
+Construction,High ,Qassim,Unfeasible,Feasible,Yes,Unfavorable,12 - 24 Months,50 - 100 Million,Yes,No,No,No,Minor,Medium,Unmitigated,Medium,Medium,Medium,Medium,NoGo
+Drainage and Stormwater Construction,High ,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,High ,Yanbu,Unfeasible,Feasible,Yes,Unfavorable,12 - 24 Months,Above 2 Billion,No,No,Yes,Yes,Major,Medium,Unmitigated,Low,Low,Medium,Medium,NoGo
+Infrastructure Development,High ,Yanbu,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,10 - 50 Millions,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Drainage and Stormwater Construction,Medium,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,Medium,Yanbu,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,10 - 50 Millions,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Drainage and Stormwater Construction,Medium,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,Medium,Yanbu,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,10 - 50 Millions,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Drainage and Stormwater Construction,Medium,Qassim,Unfeasible,Unfeasible,Yes,Unfavorable,24 - 36 Months,800 - 900 Million,No,No,No,Yes,Minor,High,Mitigated,Low,Medium,Medium,Medium,NoGo
+Infrastructure Development,High ,Yanbu,Unfeasible,Unfeasible,Yes,Unfavorable,Less than 6  Months,10 - 50 Millions,Yes,No,No,No,Minor,High,Mitigated,Low,Medium,Low,Medium,NoGo
+Construction,High ,Riyadh,Feasible,Feasible,Yes,Favorable,24 - 36 Months,150 - 200 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,High,High,Medium,Go
+Construction,High ,Medina,Feasible,Feasible,Yes,Favorable,12 - 24 Months,50 - 100 Million,No,Yes,No,No,Minor,Medium,Mitigated,High,High,Medium,High,Go
+Construction,Medium,Riyadh,Feasible,Feasible,Yes,Favorable,Less than 6  Months,10 - 50 Millions,Yes,Yes,No,No,Minor,Low,Mitigated,Low,Medium,Low,Medium,Go
+Infrastructure Development,High ,Medina,Feasible,Feasible,Yes,Favorable,6 - 12 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Mitigated,Low,High,Medium,High,Go
+Construction,High ,Dammam,Feasible,Challenging,Yes,Favorable,24 - 36 Months,500 - 600 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Low,High,High,High,Go
+Construction,High ,Dammam,Feasible,Feasible,Yes,Favorable,24 - 36 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,High,Medium,High,Low,Go
+Construction,High ,Dammam,Feasible,Feasible,Yes,Favorable,6 - 12 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,Low,Low,Low,Go
+Drainage and Stormwater Construction,Low,Riyadh,Feasible,Challenging,Yes,Favorable,24 - 36 Months,800 - 900 Million,Yes,Yes,No,Yes,Minor,High,Mitigated,Medium,Low,High,High,Go
+Drainage and Stormwater Construction,Low,Riyadh,Feasible,Feasible,Yes,Favorable,12 - 24 Months,150 - 200 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Medium,Medium,Medium,Go
+Construction,Low,Riyadh,Feasible,Feasible,Yes,Favorable,12 - 24 Months,100 - 150 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,High,High,Medium,Go
+Construction Materials,Low,Riyadh,Feasible,Feasible,Yes,Favorable,12 - 24 Months,100 - 150 Million,Yes,Yes,No,No,None,Medium,Mitigated,Medium,Medium,Medium,High,Go
+Construction,Low,Riyadh,Feasible,Challenging,Yes,Favorable,24 - 36 Months,700 - 800 Million,Yes,Yes,No,No,Minor,Low,Mitigated,Medium,High,High,High,Go
+Construction,Low,Qassim,Feasible,Feasible,Yes,Neutral,24 - 36 Months,300 - 400 Million,Yes,Yes,No,No,Major,Low,Mitigated,Low,Low,Medium,Medium,Go
+Construction,Low,Dammam,Feasible,Challenging,Yes,Neutral,24 - 36 Months,Above 2 Billion,Yes,Yes,No,Yes,Minor,Medium,Mitigated,High,High,High,Low,Go
+Infrastructure Development,Low,Riyadh,Feasible,Challenging,Yes,Neutral,24 - 36 Months,Above 2 Billion,Yes,Yes,No,Yes,Major,High,Mitigated,Medium,Medium,Medium,High,Go
+Construction,Low,Dammam,Feasible,Unfeasible,Yes,Unfavorable,12 - 24 Months,Above 2 Billion,No,No,No,Yes,Minor,High,Unmitigated,Medium,High,Medium,Medium,NoGo
+Construction,Low,Dammam,Feasible,Feasible,Yes,Neutral,12 - 24 Months,50 - 100 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,High,Medium,Medium,Go
+Construction,Low,Dammam,Feasible,Unfeasible,Yes,Unfavorable,36 - 48 Months,Above 2 Billion,No,Yes,No,Yes,Minor,High,Unmitigated,High,Medium,High,High,NoGo
+Drainage and Stormwater Construction,Low,Riyadh,Feasible,Challenging,Yes,Neutral,24 - 36 Months,700 - 800 Million,Yes,Yes,No,No,Minor,High,Mitigated,High,Medium,High,High,Go
+Infrastructure Development,Low,Riyadh,Challenging,Feasible,Yes,Neutral,24 - 36 Months,400 - 500 Million,Yes,Yes,No,No,None,Low,Mitigated,Medium,Low,Low,Medium,Go
+Construction,Low,Medina,Challenging,Challenging,Yes,Neutral,Above  48 Months,900 - 1000 Million,Yes,Yes,No,Yes,Minor,Low,Mitigated,Low,Low,High,Medium,Go
+Infrastructure Development,Low,Riyadh,Challenging,Feasible,Yes,Neutral,24 - 36 Months,300 - 400 Million,Yes,Yes,No,No,Minor,Low,Mitigated,Low,High,Medium,Low,Go
+Construction,Low,Dammam,Challenging,Feasible,Yes,Neutral,24 - 36 Months,150 - 200 Million,Yes,Yes,Yes,No,Major,Medium,Mitigated,High,Medium,High,Medium,Go
+Construction,Low,Riyadh,Challenging,Feasible,Yes,Neutral,12 - 24 Months,150 - 200 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,Low,Medium,Go
+Construction,Low,Dammam,Challenging,Challenging,Yes,Neutral,12 - 24 Months,Above 2 Billion,Yes,Yes,Yes,Yes,Minor,High,Mitigated,Low,High,Medium,Low,Go
+Construction,Low,Qassim,Challenging,Feasible,Yes,Neutral,6 - 12 Months,100 - 150 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Medium,Low,High,Go
+Construction,Low,Qassim,Challenging,Challenging,Yes,Neutral,24 - 36 Months,Above 2 Billion,Yes,Yes,Yes,Yes,Major,High,Mitigated,Medium,High,Medium,Low,Go
+Construction,Low,Medina,Challenging,Challenging,Yes,Neutral,12 - 24 Months,Above 2 Billion,Yes,Yes,No,Yes,Major,Medium,Mitigated,Low,Low,High,Low,Go
+Design and Build,Low,Dammam,Challenging,Feasible,Yes,Neutral,12 - 24 Months,150 - 200 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,Medium,Medium,High,High,Go
+Design and Build,Low,Riyadh,Challenging,Unfeasible,Yes,Unfavorable,36 - 48 Months,Above 2 Billion,No,No,Yes,Yes,Minor,Medium,Unmitigated,Low,Medium,Medium,Medium,NoGo
+Construction Materials,Low,Medina,Challenging,Feasible,Yes,Neutral,12 - 24 Months,200 - 300 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Medium,Medium,Medium,Low,Go
+Drainage and Stormwater Construction,Low,Dammam,Challenging,Feasible,Yes,Neutral,12 - 24 Months,10 - 50 Millions,Yes,Yes,Yes,No,None,Medium,Mitigated,High,Low,High,High,Go
+Construction,Low,Riyadh,Challenging,Feasible,Yes,Neutral,6 - 12 Months,Less than 10 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,Medium,High,High,Go
+Drainage and Stormwater Construction,Low,Medina,Challenging,Feasible,Yes,Neutral,6 - 12 Months,150 - 200 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,Medium,Medium,Low,High,Go
+Construction,Low,Riyadh,Challenging,Unfeasible,Yes,Unfavorable,12 - 24 Months,Above 2 Billion,No,No,Yes,Yes,Minor,High,Unmitigated,Low,High,Low,High,NoGo
+Construction,Low,Medina,Challenging,Feasible,Yes,Neutral,24 - 36 Months,150 - 200 Million,Yes,Yes,No,No,Major,Medium,Mitigated,Low,High,Low,Medium,Go
+Construction,Low,Medina,Challenging,Challenging,Yes,Neutral,24 - 36 Months,Above 2 Billion,Yes,Yes,No,Yes,Minor,Medium,Mitigated,Low,High,Medium,Medium,Go
+Construction,Low,Riyadh,Challenging,Feasible,Yes,Neutral,12 - 24 Months,300 - 400 Million,Yes,Yes,Yes,No,None,Medium,Mitigated,High,High,Medium,Low,Go
+Construction,Low,Medina,Challenging,Feasible,Yes,Neutral,24 - 36 Months,200 - 300 Million,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,Medium,Low,Low,Go
+Infrastructure Development,Low,Dammam,Challenging,Feasible,Yes,Neutral,6 - 12 Months,150 - 200 Million,Yes,Yes,Yes,No,Major,Medium,Mitigated,Medium,High,Low,High,Go
+Construction,Low,Dammam,Challenging,Challenging,Yes,Neutral,24 - 36 Months,Above 2 Billion,Yes,Yes,No,Yes,Minor,Medium,Mitigated,Medium,Medium,High,Low,Go
+Infrastructure Development,Low,Dammam,Challenging,Feasible,Yes,Neutral,6 - 12 Months,10 - 50 Millions,Yes,Yes,No,No,None,Low,Mitigated,Medium,High,High,Medium,Go
+Infrastructure Development,Low,Riyadh,Challenging,Feasible,Yes,Neutral,6 - 12 Months,100 - 150 Million,Yes,Yes,Yes,No,Minor,Medium,Mitigated,Low,Low,Low,Medium,Go
+Infrastructure Development,Low,Dammam,Challenging,Challenging,Yes,Neutral,12 - 24 Months,800 - 900 Million,Yes,Yes,No,No,None,Low,Mitigated,High,Medium,High,High,Go
+Construction,Low,Dammam,Challenging,Challenging,Yes,Neutral,24 - 36 Months,900 - 1000 Million,Yes,Yes,Yes,Yes,Major,Low,Mitigated,High,Low,High,Low,Go
+Infrastructure Development,Low,Dammam,Challenging,Challenging,Yes,Neutral,24 - 36 Months,900 - 1000 Million,Yes,No,No,Yes,None,High,Mitigated,High,Medium,High,Low,Go
+Construction,Low,Riyadh,Challenging,Feasible,Yes,Neutral,24 - 36 Months,200 - 300 Million,Yes,Yes,No,No,None,Medium,Mitigated,High,Low,High,High,Go
+Construction,Medium,Medina,Feasible,Challenging,No,Neutral,24 - 36 Months,Above 2 Billion,No,Yes,No,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Construction,Medium,Abha,Feasible,Feasible,No,Neutral,24 - 36 Months,50 - 100 Million,No,Yes,No,No,None,Low,Unmitigated,Low,High,High,High,Go
+Drainage and Stormwater Construction,Medium,Qassim,Feasible,Challenging,Yes,Neutral,24 - 36 Months,800 - 900 Million,No,Yes,No,No,None,Low,Unmitigated,High,High,High,High,Go
+Drainage and Stormwater Construction,Medium,Riyadh,Feasible,Feasible,No,Neutral,12 - 24 Months,300 - 400 Million,Yes,Yes,No,No,None,Low,Unmitigated,Medium,High,High,High,Go
+Construction,Medium,Dammam,Feasible,Feasible,No,Neutral,12 - 24 Months,100 - 150 Million,Yes,Yes,Yes,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Construction,Medium,Medina,Feasible,Feasible,No,Neutral,Above  48 Months,Above 2 Billion,No,Yes,Yes,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Drainage and Stormwater Construction,Medium,Qassim,Feasible,Challenging,Yes,Neutral,24 - 36 Months,800 - 900 Million,No,Yes,Yes,No,None,Low,Unmitigated,High,High,High,High,Go
+Drainage and Stormwater Construction,Medium,Riyadh,Feasible,Feasible,No,Neutral,12 - 24 Months,300 - 400 Million,Yes,Yes,No,No,None,Low,Unmitigated,Medium,High,High,High,Go
+Construction,Medium,Dammam,Feasible,Feasible,No,Neutral,12 - 24 Months,100 - 150 Million,Yes,Yes,Yes,No,None,Low,Unmitigated,High,High,High,Medium,Go
+Construction,Medium,Medina,Feasible,Challenging,No,Neutral,24 - 36 Months,Above 2 Billion,No,Yes,Yes,Yes,None,Medium,Unmitigated,High,High,High,Medium,Go
+Design and Build,High ,Tabuk,Unfeasible,Unfeasible,No,Unfavorable,24 - 36 Months,Above 2 Billion,No,No,Yes,Yes,Minor,High,Mitigated,High,Medium,Medium,Low,NoGo
+Construction Materials,Medium,Medina,Challenging,Feasible,No,Neutral,24 - 36 Months,100 - 150 Million,Yes,Yes,No,No,Minor,Low,Mitigated,Medium,High,High,High,Go
+Construction Materials,Medium,Qassim,Challenging,Feasible,No,Neutral,Less than 6  Months,10 - 50 Millions,Yes,Yes,No,No,Minor,Medium,Mitigated,Medium,Medium,Medium,High,Go
+Buildings Construction,Medium,Riyadh,Feasible,Feasible,No,Neutral,12 - 24 Months,150 - 200 Million,Yes,Yes,No,No,Minor,Medium,Unmitigated,Medium,High,Low,High,Go
+Construction,Medium,Riyadh,Feasible,Unfeasible,No,Neutral,6 - 12 Months,50 - 100 Million,Yes,No,Yes,No,Major,High,Mitigated,Medium,Low,Medium,Medium,NoGo
