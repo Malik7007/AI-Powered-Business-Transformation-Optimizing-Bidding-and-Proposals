@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Business Transformation: Optimizing Bidding and Proposals</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-image: url('{{ url_for('static', filename='images/logo.png') }}');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 500px;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            font-size: 2rem;
+            color: #007bff;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #6c757d;
+        }
+    </style>
+   
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Go/No-Go Decision Support System</h1>
+        </div>
+        <form id="project-form" action="/predict" method="post" onsubmit="return validateForm()">
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="Project_Scope_Complexity" title="Select complexity level">Project Scope Complexity</label>
+                    <select class="form-control" name="Project Scope Complexity" id="Project_Scope_Complexity" aria-label="Project Scope Complexity" required>
+                        <option value="">Select</option>
+                        <option value="Low">Low</option>
+                        <option value="Medium">Medium</option>
+                        <option value="High ">High</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="Technical_Feasibility" title="Feasibility of technical execution">Technical Feasibility</label>
+                    <select class="form-control" name="Technical Feasibility" id="Technical_Feasibility" aria-label="Technical Feasibility" required>
+                        <option value="">Select</option>
+                        <option value="Feasible">Feasible</option>
+                        <option value="Challenging">Challenging</option>
+                        <option value="Unfeasible">Unfeasible</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="Financial_Feasibility" title="Financial viability">Financial Feasibility</label>
+                    <select class="form-control" name="Financial Feasibility" id="Financial_Feasibility" aria-label="Financial Feasibility" required>
+                        <option value="">Select</option>
+                        <option value="Feasible">Feasible</option>
+                        <option value="Challenging">Challenging</option>
+                        <option value="Unfeasible">Unfeasible</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="Contract_Terms" title="Favorability of contract terms">Contract Terms</label>
+                    <select class="form-control" name="Contract Terms" id="Contract_Terms" aria-label="Contract Terms" required>
+                        <option value="">Select</option>
+                        <option value="Favorable">Favorable</option>
+                        <option value="Neutral">Neutral</option>
+                        <option value="Unfavorable">Unfavorable</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="Relevant_Experience" title="Prior experience in similar projects">Relevant Experience</label>
+                    <select class="form-control" name="Relevant Experience" id="Relevant_Experience" aria-label="Relevant Experience" required>
+                        <option value="">Select</option>
+                        <option value="Yes">Yes</option>
+                        <option value="No">No</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="Internal_Resources_Available" title="Internal resources availability">Internal Resources Available</label>
+                    <select class="form-control" name="Internal Resources Available" id="Internal_Resources_Available" aria-label="Internal Resources Available" required>
+                        <option value="">Select</option>
+                        <option value="Yes">Yes</option>
+                        <option value="No">No</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="Risk_Level" title="Risk assessment level">Risk Level</label>
+                    <select class="form-control" name="Risk Level" id="Risk_Level" aria-label="Risk Level" required>
+                        <option value="">Select</option>
+                        <option value="High">High</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Low">Low</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="Market_Demand" title="Projected market demand">Market Demand</label>
+                    <select class="form-control" name="Market Demand" id="Market_Demand" aria-label="Market Demand" required>
+                        <option value="">Select</option>
+                        <option value="High">High</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Low">Low</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="Strategic_Alignment" title="Alignment with strategic goals">Strategic Alignment</label>
+                    <select class="form-control" name="Strategic Alignment" id="Strategic_Alignment" aria-label="Strategic Alignment" required>
+                        <option value="">Select</option>
+                        <option value="High">High</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Low">Low</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="Long_Term_Impact" title="Long-term benefits and impact">Long Term Impact</label>
+                    <select class="form-control" name="Long Term Impact" id="Long_Term_Impact" aria-label="Long Term Impact" required>
+                        <option value="">Select</option>
+                        <option value="High">High</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Low">Low</option>
+                    </select>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block">Submit</button>
+        </form>
+
+        <footer>
+            <p>&copy; 2024 Malik. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,91 @@
+Model: Random Forest
+Accuracy: 97.01%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       102
+           1       0.91      0.97      0.94        32
+
+    accuracy                           0.97       134
+   macro avg       0.95      0.97      0.96       134
+weighted avg       0.97      0.97      0.97       134
+
+
+Model: Logistic Regression
+Accuracy: 98.51%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       102
+           1       0.97      0.97      0.97        32
+
+    accuracy                           0.99       134
+   macro avg       0.98      0.98      0.98       134
+weighted avg       0.99      0.99      0.99       134
+
+
+Model: SVM
+Accuracy: 98.51%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       102
+           1       0.97      0.97      0.97        32
+
+    accuracy                           0.99       134
+   macro avg       0.98      0.98      0.98       134
+weighted avg       0.99      0.99      0.99       134
+
+
+Model: K-Nearest Neighbors
+Accuracy: 99.25%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       102
+           1       1.00      0.97      0.98        32
+
+    accuracy                           0.99       134
+   macro avg       1.00      0.98      0.99       134
+weighted avg       0.99      0.99      0.99       134
+
+
+Model: Neural Network
+Accuracy: 98.51%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       102
+           1       0.97      0.97      0.97        32
+
+    accuracy                           0.99       134
+   macro avg       0.98      0.98      0.98       134
+weighted avg       0.99      0.99      0.99       134
+
+
+Model: Naive Bayes
+Accuracy: 99.25%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       102
+           1       1.00      0.97      0.98        32
+
+    accuracy                           0.99       134
+   macro avg       1.00      0.98      0.99       134
+weighted avg       0.99      0.99      0.99       134
+
+
+Model: XGBoost
+Accuracy: 97.01%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       102
+           1       0.91      0.97      0.94        32
+
+    accuracy                           0.97       134
+   macro avg       0.95      0.97      0.96       134
+weighted avg       0.97      0.97      0.97       134
+
+

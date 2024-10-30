@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction Results</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+            background-color: #f4f4f9; 
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 { 
+            color: #007bff; 
+            text-align: center; 
+        }
+        .results { 
+            margin-top: 20px; 
+            padding: 20px;
+            background-color: #ffffff; 
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .model-result { 
+            font-size: 18px; 
+            padding: 10px 0; 
+            border-bottom: 1px solid #ddd;
+        }
+        .model-result:last-child { 
+            border-bottom: none; 
+        }
+        .final-decision { 
+            font-size: 22px; 
+            color: #007bff; 
+            font-weight: bold; 
+            text-align: center; 
+            margin-top: 20px;
+        }
+        .vote-details {
+            margin-top: 15px;
+            font-size: 16px;
+        }
+        .back-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .back-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Prediction Results</h1>
+    <div class="results">
+        <div class="final-decision">
+            Final Decision: {{ final_decision }}
+        </div>
+        
+        <div class="vote-details">
+            <h3>Models Voting "Go":</h3>
+            <ul>
+                {% for model in go_votes %}
+                    <li>{{ model }}</li>
+                {% endfor %}
+            </ul>
+
+            <h3>Models Voting "No-Go":</h3>
+            <ul>
+                {% for model in no_go_votes %}
+                    <li>{{ model }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="all-models">
+            <h3>Individual Model Results:</h3>
+            {% for model, prediction in predictions.items() %}
+                <div class="model-result">
+                    <strong>{{ model }}:</strong> {{ prediction }}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div style="text-align: center;">
+        <a href="/" class="back-button">Back to Home</a>
+    </div>
+</body>
+</html>
