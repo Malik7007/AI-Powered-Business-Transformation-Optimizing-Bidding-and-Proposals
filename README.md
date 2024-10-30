@@ -5,13 +5,13 @@ It uses a variety of machine learning models to analyze project-related features
 **Project Overview**
 The system is designed to assist the Bidding & Proposals department by analyzing critical project data and making Go/No-Go recommendations. It leverages historical data on past projects and employs several machine learning models, including:
 
-**Random Forest Classifier
-Logistic Regression
-XGBoost(Extreme Gradient Boosting)
-Support Vector Machine
-K-Nearest Neighbors (KNN)
-Neural Networks
-Naive Bayes**
+**1. Random Forest Classifier,
+2. Logistic Regression,
+3. XGBoost(Extreme Gradient Boosting),
+4. Support Vector Machine,
+5. K-Nearest Neighbors (KNN),
+6. Neural Networks,
+7. Naive Bayes.**
 
 These models are trained to provide a comprehensive view of Project Scope Complexity,	Technical Feasibility,	Financial Feasibilit,y	Contract Terms,
 Relevant Experience,	Internal Resources Available,	Risk Level,	
