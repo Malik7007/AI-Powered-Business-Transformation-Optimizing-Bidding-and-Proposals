@@ -88,7 +88,7 @@ def predict():
     for name, model in models.items():
         if model:  # Ensure the model is loaded
             pred = model.predict(X_scaled)
-            pred_label = 'Go' if pred[0] == 1 else 'No-Go'
+            pred_label = 'Go' if pred[0] == 0 else 'No-Go'
             predictions[name] = pred_label
 
             # Append model to the appropriate list based on its prediction
