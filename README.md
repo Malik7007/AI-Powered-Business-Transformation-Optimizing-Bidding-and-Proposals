@@ -39,7 +39,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/AI-Powered-Business-Transformation-Optimizing-Bidding-and-Proposals.git
+git clone https://github.com/Malik7007/AI-Powered-Business-Transformation-Optimizing-Bidding-and-Proposals.git
 cd AI-Powered-Business-Transformation-Optimizing-Bidding-and-Proposals
 Install dependencies:
 bash
